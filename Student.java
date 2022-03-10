@@ -27,6 +27,10 @@ public class Student {
 		
 		return str;
 	}
+	public String getID()
+	{
+		return id;
+	}
 	
 	public String getFirst() {
 		return firstName;

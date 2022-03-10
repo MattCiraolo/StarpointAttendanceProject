@@ -1,3 +1,4 @@
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
@@ -8,25 +9,65 @@ import java.util.ArrayList;
 //updated file to store last name before student id
 public class App 
 {
-//File text = new File("H:/CS2021/APCS2021/test.txt");
-public static File text = new File("C:/Eclipse/Attend/test.txt");
-
-
-	public static void main(String args[]) throws FileNotFoundException 
+	
+	public static File text = new File("H:/test.txt");
+	
+	private static ArrayList<Student> studentList;
+	private static ArrayList<String> line=new ArrayList<String>();
+	
+	public App(ArrayList<String> line)
 	{
-		Scanner scnr = new Scanner(text);
-		ArrayList<String> line = new ArrayList<String>();
-		while(scnr.hasNextLine())
-        {
-        	line.add(scnr.nextLine());
-        }
-		
-		java.util.Collections.sort(line);
-		rewriteFile(line);
-		display(line);
-		
-		scnr.close();
+		App.line = line;
 	}
+	
+	
+	public App()
+	{
+		
+		try
+		{
+			Scanner scnr = new Scanner(text);
+			
+			while(scnr.hasNextLine())
+			{
+				line.add(scnr.nextLine());
+			}
+		
+			java.util.Collections.sort(line);  //by last name
+			rewriteFile();
+			display();    //populate the table in the GUI
+		
+			scnr.close();
+			
+		}
+		catch(FileNotFoundException e)
+		{
+			//This would have to be a pop up window later
+			System.out.println("file not found");
+		}
+		
+		studentList = new ArrayList<Student>();
+		for(int i = 0; i < line.size(); i++) {
+			studentList.add(processStudentRecord(line.get(i)));
+			System.out.println(studentList.get(i).toString() + "\n");
+		}
+		
+		
+		
+	}
+	
+	public ArrayList<Student> getList()
+	{
+		return studentList;
+	}
+	
+	public int size()
+	{
+		return studentList.size();
+	}
+	
+	
+	
 	
 	public static Student processStudentRecord(String line)
 	{
@@ -48,6 +89,8 @@ public static File text = new File("C:/Eclipse/Attend/test.txt");
         
         return new Student(id,last,first,parseDates(dates),absences);
 	}
+	
+	
 	public static ArrayList<String> parseDates(String dates)
 	{
 		ArrayList<String> dateList = new ArrayList<String>();
@@ -61,7 +104,7 @@ public static File text = new File("C:/Eclipse/Attend/test.txt");
 	}
 	
 	//interprets the array of lines from file 
-	public static ArrayList<Student> display(ArrayList<String> line) 
+	public static ArrayList<Student> display() 
 	{
 		//creates new array list every time it is called FIX!!!!!!!!
 		ArrayList<Student> studentList = new ArrayList<Student>();
@@ -73,7 +116,7 @@ public static File text = new File("C:/Eclipse/Attend/test.txt");
 	}
 	
 	//this is used to update the file instead of editing it it rewrites the whole thing
-	public static void rewriteFile(ArrayList<String> line) 
+	public static void rewriteFile() 
 	{
 		try {
 			FileWriter writer = new FileWriter(text.getPath());
@@ -91,8 +134,8 @@ public static File text = new File("C:/Eclipse/Attend/test.txt");
 	{
 		l.add(last + "," + first +"@" + num +"@@0");
 		java.util.Collections.sort(l);
-		rewriteFile(l);
-		display(l);
+		rewriteFile();
+		display();
 	}	
 	
 	//not implemented
@@ -123,8 +166,8 @@ public static File text = new File("C:/Eclipse/Attend/test.txt");
 		}
 		
 		java.util.Collections.sort(l);
-		rewriteFile(l);
-		display(l);
+		rewriteFile();
+		display();
 		return l;
 	} 
 		
