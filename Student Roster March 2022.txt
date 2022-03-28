@@ -1,0 +1,914 @@
+ID Number	Last Name	First Name	MI	Name Pronunciation	IEP	504	Custom Indicators	LEP	Gender	Grade	Homeroom	Race	Hispanic	Date Of Birth	Current Loc.	Fully Scheduled	Counselor	Dual Enrollment
+091880001	Adams	Gwen		No	No	No	(20A) 2020-21 Group Garnet	No	Female	11	N16	White	false	09/16/2005		Yes	Clement  Smith	
+092050000	Adams	Hugh	Evel	No	No	No	(20A) 2020-21 Group Garnet	No	Male	9	K30	White	false	10/23/2007		Yes	Julie  vanBourgondien	
+091390000	Adams	Nate	Evel	No	No	No	(20A) 2020-21 Group Garnet	No	Male	12	K18	White	false	02/03/2004		No	Tara  Wasilewski	
+900461238	Agro	Cameron	James	No	No	No	(20A) 2020-21 Group Garnet	No	Male	12	N23	White	false	07/30/2004		No	Tara  Wasilewski	
+900461237	Agro	Zachary	Alan	No	No	No	(20A) 2020-21 Group Garnet	No	Male	9	N12	White	false	01/26/2007		Yes	Julie  vanBourgondien	
+900463638	Aguglia	Addison	Rose	No	No	No		No	Female	9	K5	White	false	10/29/2007		Yes	Julie  vanBourgondien	
+900456646	Allen	Braden	Michael	No	No	No	(20A) 2020-21 Group Garnet	No	Male	11	N9	White	false	06/02/2005		Yes	Clement  Smith	
+900451681	Allen	Nicholas		No	No	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	12	LMC	White	false	09/25/2004		No	Tara  Wasilewski	
+900461281	Almoukhtafi	Nicholas	Junior	No	No	No	(20C) 2020-21 Group SOLA	LEP Eligible - Yes	Male	9	K22	White	false	03/31/2007		Yes	Julie  vanBourgondien	
+900461282	Almoukhtafi	Shania	Nicole	No	No	No	(20A) 2020-21 Group Garnet	A	Female	11	N16	White	false	08/27/2005		No	Clement  Smith	
+111380015	Alvarez	Devin	Roberto	No	No	No	(20A) 2020-21 Group Garnet	No	Male	9	K27	White	true	02/19/2007		Yes	Julie  vanBourgondien	
+110940000	Amacher	Danica	Renee	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Female	9	K22	White	false	03/22/2007		Yes	Julie  vanBourgondien	
+900438758	Amacher	Lauren	Dean	No	No	No	(20A) 2020-21 Group Garnet	No	Female	11	N5	White	false	03/28/2005		No	Clement  Smith	
+101330001	Amacher III	Lawrence	Dean	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	9	K22	White	false	03/19/2006		No	Julie  vanBourgondien	
+900464354	Ammerman	Ella	Marie	No	No	No		No	Female	9	N17	White	false	07/31/2007		No	Julie  vanBourgondien	
+900463989	Anastasi	Ava	Vera	No	No	No	(20A) 2020-21 Group Garnet	No	Female	10	N17	White	false	09/12/2006		Yes	Andrea  Rodenhaus	
+900463703	Anderson	Kendall	Elizabeth	No	Yes	No	(20C) 2020-21 Group SOLA	No	Female	10	K7	Multiracial	true	10/14/2005		No	Andrea  Rodenhaus	
+111380009	Andrews	Ireland	Rose	No	No	No	(20A) 2020-21 Group Garnet	No	Female	9	N12	White	false	04/10/2007		Yes	Julie  vanBourgondien	
+900460806	Andrews-Nye	Jackson	Thomas	No	No	No	(20C) 2020-21 Group SOLA	No	Male	9	K19	White	false	09/17/2007		Yes	Julie  vanBourgondien	
+900460882	Anselm	Anthony	Joseph	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	9	K22	White	false	05/27/2007		Yes	Julie  vanBourgondien	
+103430002	Anthony	Madeline	Adania	No	No	No	(20A) 2020-21 Group Garnet	No	Female	9	K22	White	false	10/26/2007		Yes	Julie  vanBourgondien	
+101590003	Apolito	Clara	Jean	No	No	No	(20A) 2020-21 Group Garnet	No	Female	11	N6	White	false	03/15/2005		Yes	Clement  Smith	
+101590000	Argo	Cassandra	Josephine	No	No	No	(20A) 2020-21 Group Garnet	No	Female	12	K16	White	false	08/27/2005		Yes	Clement  Smith	
+090570006	Armitage	Alyssa	Marie	No	No	No	(20A) 2020-21 Group Garnet	No	Female	12	K27	White	false	05/21/2004		Yes	Tara  Wasilewski	
+091040000	Armitage	Nolan	James	No	No	No	(20A) 2020-21 Group Garnet	No	Male	10	N5	White	false	07/02/2006		No	Andrea  Rodenhaus	
+900460956	Arter	Brayden	Michael	No	No	No	(20A) 2020-21 Group Garnet	No	Male	9	K27	White	false	02/16/2007		Yes	Julie  vanBourgondien	
+900455945	Asher	Sophia		No	No	No	(20A) 2020-21 Group Garnet	No	Female	12	K27	White	false	07/09/2004		Yes	Tara  Wasilewski	
+900463613	Austin	Cali	Nicole	No	No	No	(20A) 2020-21 Group Garnet	No	Female	12	BOCES	White	false	03/13/2004		Yes	Tara  Wasilewski	
+900463614	Austin	Paige	Elizabeth	No	No	No	(20A) 2020-21 Group Garnet	No	Female	11	N9	White	false	06/30/2005		Yes	Clement  Smith	
+900461001	Bailey	Claire	Elizabeth	No	No	No	(20A) 2020-21 Group Garnet	No	Female	9	K4	White	false	12/31/2006		Yes	Julie  vanBourgondien	
+101330000	Bak	Madison	Paige	No	No	No	(20C) 2020-21 Group SOLA	No	Female	10	K17	White	false	01/04/2006		Yes	Andrea  Rodenhaus	
+110950005	Baker	Tyler	Howard	No	No	No	(20A) 2020-21 Group Garnet	No	Male	9	N4	White	false	11/10/2006		Yes	Julie  vanBourgondien	
+900451682	Balko	Meghan	Elisabeth	No	No	No	(20A) 2020-21 Group Garnet	No	Female	12	N10	White	false	02/10/2004		No	Tara  Wasilewski	
+900460851	Balz	Skylar		No	No	No	(20A) 2020-21 Group Garnet	No	Male	10	L15	White	false	02/11/2006		Yes	Andrea  Rodenhaus	
+900461228	Bancroft	Evan	William	No	Yes	No	(20A) 2020-21 Group Garnet	No	Male	10	K7	White	false	10/18/2006		No	Andrea  Rodenhaus	
+900456647	Bannister	Emily	Olivia	No	No	No	(20A) 2020-21 Group Garnet	No	Female	9	L13	White	false	02/13/2007		No	Julie  vanBourgondien	
+102140003	Barber	Aidan	Rhys	No	No	No	(20A) 2020-21 Group Garnet	No	Male	12	K16	White	false	10/27/2003		Yes	Tara  Wasilewski	
+100610002	Barone	Charliana		No	No	No	(20A) 2020-21 Group Garnet	No	Female	11	N13	White	false	03/29/2005		Yes	Clement  Smith	
+101330013	Barone	Talon	Zachary	No	No	No	(20A) 2020-21 Group Garnet	No	Male	10	N19	White	false	11/23/2006		Yes	Andrea  Rodenhaus	
+100330002	Barsch	Christian	Eric	No	No	No	(20A) 2020-21 Group Garnet	No	Male	11	N17	White	false	08/08/2005		Yes	Clement  Smith	
+110670000	Bartle	Aidan	Joseph	No	No	No	(20A) 2020-21 Group Garnet	No	Male	10	K17	White	false	07/31/2006		Yes	Andrea  Rodenhaus	
+102370002	Bartlett	Savannah	Rose	No	No	No	(20A) 2020-21 Group Garnet	No	Female	10	K17	White	false	02/04/2006		Yes	Andrea  Rodenhaus	
+900462379	Bashor	Colby	Thomas	No	No	No	(20A) 2020-21 Group Garnet	No	Male	9	N4	White	false	10/30/2006		Yes	Julie  vanBourgondien	
+900462381	Bashor	Robert	Jonathan	No	No	No	(20A) 2020-21 Group Garnet	No	Male	11	N13	White	false	12/18/2004		No	Clement  Smith	
+900460924	Battaglia	Christian	Anthony	No	No	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	9	K19	White	false	12/22/2006		Yes	Julie  vanBourgondien	
+900457741	Baughman	Meghan	Patrice	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Female	12	K16	White	false	05/12/2004		No	Tara  Wasilewski	
+900463243	Beaver	Joshua	Scott	No	No	No	(20A) 2020-21 Group Garnet	No	Male	11	N16	White	false	04/19/2005		Yes	Clement  Smith	
+900463242	Beaver	Zachary	Thomas	No	Yes	No		No	Male	9	K22	White	false	07/28/2006		Yes	Julie  vanBourgondien	
+900458959	Beback	Jordan	Allen	No	No	No	(20A) 2020-21 Group Garnet	No	Male	10	L6	White	false	10/21/2005		No	Andrea  Rodenhaus	
+900458960	Beback	Tyler	James	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	10	K7	White	false	10/21/2005		No	Andrea  Rodenhaus	
+900451685	Beccue	Joshua	Michael	No	No	No	(20A) 2020-21 Group Garnet	No	Male	12	K18	White	false	04/07/2004		No	Tara  Wasilewski	
+100210002	Becker	Logan	Michael	No	No	No	(20B) 2020-21 Group Gray	No	Male	11	K6	White	false	07/27/2005		Yes	Clement  Smith	
+900413205	Beckman	Madison	Denise	No	No	No	(20A) 2020-21 Group Garnet	No	Female	12	K18	White	false	04/30/2004		No	Tara  Wasilewski	
+900459285	Beecher	Joshua	Martin	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	12	BOCES	White	false	02/06/2004		No	Tara  Wasilewski	
+090750000	Beecher	Terra	Margaret	No	No	No	(20A) 2020-21 Group Garnet	No	Female	11	N14	White	false	09/24/2005		Yes	Clement  Smith	
+900460746	Behe	Allison	Nicole	No	No	No	(20A) 2020-21 Group Garnet	No	Female	11	L14	White	false	02/25/2005		No	Clement  Smith	
+100540002	Beiter	Drew	Vincent	No	No	No	(20A) 2020-21 Group Garnet	No	Male	11	N13	White	false	08/07/2005		No	Clement  Smith	
+091950000	Beiter	Emma	Grace	No	No	No	(20A) 2020-21 Group Garnet	No	Female	12	L17	White	false	05/11/2004		Yes	Tara  Wasilewski	
+900438764	Beiter	Mara	Alice	No	No	No	(20A) 2020-21 Group Garnet	No	Female	11	N18	White	false	01/08/2005		Yes	Clement  Smith	
+091040001	Belkota	Dylan	James	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	9	L6	White	false	06/17/2007		No	Julie  vanBourgondien	
+090770004	Belkota	Faithe	Jean	No	No	No	(20A) 2020-21 Group Garnet	No	Female	12	K16	White	false	03/24/2004		No	Tara  Wasilewski	
+900461182	Benedict	Elise	Marie	No	No	No	(20A) 2020-21 Group Garnet	No	Female	9	K4	White	false	07/11/2007		Yes	Julie  vanBourgondien	
+900451686	Bennett	Morgan	Grace	No	No	No	(20A) 2020-21 Group Garnet	No	Female	12	K18	White	false	08/13/2004		Yes	Tara  Wasilewski	
+900460968	Bennett	Sawyer	Grey	No	No	Yes	(20D) 2020-21 Group D (Everyday Students)	No	Male	9	K7	White	false	02/15/2007		Yes	Julie  vanBourgondien	
+900456648	Benson	Erin	Kathryn	No	No	No	(20A) 2020-21 Group Garnet	No	Female	9	K5	White	false	01/30/2007		Yes	Julie  vanBourgondien	
+091490003	Berube	Meadow	Lynn	No	No	No	(20A) 2020-21 Group Garnet	No	Female	9	K27	White	false	05/14/2007		Yes	Julie  vanBourgondien	
+090370001	Berube	Skylar	Alexis	No	No	No	(20A) 2020-21 Group Garnet	No	Female	12	L14	White	false	02/06/2004		Yes	Tara  Wasilewski	
+900461053	Bevilacqua	Megan	Leigh	No	No	No	(20A) 2020-21 Group Garnet	No	Female	10	K10	White	false	07/11/2006		No	Andrea  Rodenhaus	
+900451688	Bialik	Jada	Priscilla	No	No	No	(20A) 2020-21 Group Garnet	No	Female	10	L15	White	false	02/10/2006		Yes	Andrea  Rodenhaus	
+900451687	Bialik	Ty	John	No	No	No	(20A) 2020-21 Group Garnet	No	Male	12	K18	White	false	06/07/2004		Yes	Tara  Wasilewski	
+111440000	Bichler	William	Brian	No	No	No	(20A) 2020-21 Group Garnet	No	Male	9	N12	White	false	01/01/2007		Yes	Julie  vanBourgondien	
+900460979	Bilby	Chelsey	Diane	No	No	No		No	Female	9	ALC	White	false	04/27/2007		Yes	Julie  vanBourgondien	
+900461280	Billanti	Isabella	Cassandra	No	No	No	(20A) 2020-21 Group Garnet	No	Female	10	K11	White	false	05/18/2006		No	Andrea  Rodenhaus	
+900439049	Biniszkiewicz	Sara	Rose	No	No	No	(20A) 2020-21 Group Garnet	No	Female	12	LMC	White	false	12/08/2003		Yes	Tara  Wasilewski	
+100970001	Bird	Andrew	David	No	No	No	(20A) 2020-21 Group Garnet	No	Male	11	N17	White	false	11/15/2005		No	Clement  Smith	
+092030002	Birtch	Andrew	Raymond	No	No	No	(20A) 2020-21 Group Garnet	No	Male	11	K6	White	false	08/22/2005		Yes	Clement  Smith	
+900424282	Blas	Luke	Michael	No	No	No	(20A) 2020-21 Group Garnet	No	Male	12	K18	White	false	09/20/2004		Yes	Tara  Wasilewski	
+900438765	Blatner	Delaney	Jaden	No	No	No	(20A) 2020-21 Group Garnet	No	Female	11	K6	White	false	05/14/2005		Yes	Clement  Smith	
+100330001	Blech	Collin	Jeffrey	No	No	Yes	(20A) 2020-21 Group Garnet	No	Male	11	N6	White	false	08/26/2005		Yes	Clement  Smith	
+091390001	Blecharski	Haley	Paige	No	No	No	(20C) 2020-21 Group SOLA	No	Female	12	BOCES	White	false	11/12/2004		No	Tara  Wasilewski	
+102070004	Bloomer	Emma	Noelle	No	No	No	(20A) 2020-21 Group Garnet	No	Female	12	L17	White	false	04/09/2004		No	Tara  Wasilewski	
+101130013	Bloomer	Miriam	Faith	No	No	No	(20A) 2020-21 Group Garnet	No	Female	10	K10	White	false	01/12/2006		Yes	Andrea  Rodenhaus	
+900451689	Blount	Lindsey	Grace	No	No	No	(20A) 2020-21 Group Garnet	No	Female	12	K18	White	false	02/14/2004		Yes	Tara  Wasilewski	
+900457233	Blyashuk	Diana		No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	LEP Eligible - Yes	Female	UGS	BOCES	White	false	02/21/2004		Yes	Julie  vanBourgondien	
+900451691	Blyashuk	Maryann		No	Yes	No	(20A) 2020-21 Group Garnet	No	Female	10	N29	White	false	04/16/2006		No	Andrea  Rodenhaus	
+900451690	Blyashuk	Michael		No	No	No	(20A) 2020-21 Group Garnet	No	Male	12	BOCES	White	false	02/06/2004		Yes	Tara  Wasilewski	
+100560001	Boje	Zachary	Ryan	No	No	Yes	(20A) 2020-21 Group Garnet	No	Male	11	N20	White	false	06/26/2005		Yes	Clement  Smith	
+900461295	Boron	Kayla	Marie	No	No	No	(20A) 2020-21 Group Garnet	No	Female	10	N28	White	false	01/04/2006		Yes	Andrea  Rodenhaus	
+900461570	Boswell	Adelaide	Nicole	No	No	No	(20C) 2020-21 Group SOLA	No	Female	10	K4	White	false	10/12/2005		Yes	Andrea  Rodenhaus	
+900458000	Boswell	Olivia	Grace	No	No	No	(20A) 2020-21 Group Garnet	No	Female	11	L14	White	false	06/08/2005		Yes	Clement  Smith	
+900456420	Boyer	Lana	Geraldine	No	No	No	(20A) 2020-21 Group Garnet	No	Female	12	LMC	White	false	03/27/2004		No	Tara  Wasilewski	
+091940000	Brachmann	Olivia	Jean	No	No	No	(20A) 2020-21 Group Garnet	No	Female	11	N13	White	false	03/03/2005		Yes	Clement  Smith	
+900462037	Bradley	Luke	Windsor	No	No	No	(20A) 2020-21 Group Garnet	No	Male	10	N5	White	false	05/22/2006		No	Andrea  Rodenhaus	
+900461904	Brady	Aviana	Lucille	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Female	9	L6	Multiracial	false	12/29/2006		No	Julie  vanBourgondien	
+100080000	Brady	Nicholas	Andrew	No	No	No	(20A) 2020-21 Group Garnet	No	Male	11	N17	White	false	02/04/2005		Yes	Clement  Smith	
+900464281	Bratt	Hailey	Marie	No	No	No		No	Female	9	N12	White	false	09/27/2007		No	Julie  vanBourgondien	
+900438994	Braunscheidel	Riley	Ann	No	No	No	(20C) 2020-21 Group SOLA	No	Female	11	N18	White	false	03/16/2005		Yes	Clement  Smith	
+900443266	Brick	Kaylin	Marie	No	No	No	(20C) 2020-21 Group SOLA	No	Female	11	N9	White	false	06/27/2005		Yes	Clement  Smith	
+092510000	Briggs	Bailey	Isabella	No	No	No	(20A) 2020-21 Group Garnet	No	Female	12	K16	White	false	08/07/2004		No	Tara  Wasilewski	
+111380016	Briggs	Isabella	Mia	No	No	No	(20A) 2020-21 Group Garnet	No	Female	9	N4	Multiracial	false	01/06/2007		Yes	Julie  vanBourgondien	
+111380011	Britt	Kaylee	Kristine	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Female	9	L6	White	false	01/23/2007		Yes	Julie  vanBourgondien	
+900456650	Brodfuehrer	Ava	Grace	No	No	No	(20A) 2020-21 Group Garnet	No	Female	9	K27	White	false	05/29/2007		Yes	Julie  vanBourgondien	
+900456651	Brodfuehrer	Julia	Lee	No	No	No	(20A) 2020-21 Group Garnet	No	Female	9	N4	White	false	05/29/2007		Yes	Julie  vanBourgondien	
+090370000	Browka	Emma	Grace	No	No	No	(20A) 2020-21 Group Garnet	No	Female	12	K18	White	false	01/30/2004		Yes	Tara  Wasilewski	
+101090006	Brown	Jordan	Michael	No	No	Yes	(20D) 2020-21 Group D (Everyday Students)	No	Male	11	K23	White	false	06/26/2005		Yes	Clement  Smith	
+111440002	Brown	Justin	Michael	No	No	No	(20A) 2020-21 Group Garnet	No	Male	9	K30	White	false	03/18/2007		Yes	Julie  vanBourgondien	
+900461111	Brown	Marah	Grace	No	No	No	(20C) 2020-21 Group SOLA	No	Female	12	K16	White	false	06/19/2004		Yes	Tara  Wasilewski	
+900461012	Browne	Thomas	James	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	12	BOCES	White	false	02/10/2004		No	Tara  Wasilewski	
+900456746	Bruning-Smith	Samuel	Trevor	No	No	No	(20B) 2020-21 Group Gray	No	Male	10	N17	White	false	10/14/2005		Yes	Andrea  Rodenhaus	
+090980000	Buccarelli	Nicholas	Joseph	No	No	Yes	(20A) 2020-21 Group Garnet	No	Male	11	N16	White	false	04/08/2004		No	Clement  Smith	
+091530001	Budde	Lillian	Jewel	No	No	No	(20C) 2020-21 Group SOLA	No	Female	12	K18	White	false	06/27/2004		No	Tara  Wasilewski	
+110470002	Budde	Rachael	Rose	No	No	No	(20C) 2020-21 Group SOLA	No	Female	10	K17	White	false	04/17/2006		Yes	Andrea  Rodenhaus	
+900453385	Budny	Vivian	Isabella	No	No	No	(20A) 2020-21 Group Garnet	No	Female	12	LMC	White	false	12/29/2003		Yes	Tara  Wasilewski	
+110340000	Budz	Sienna	Marie	No	No	No	(20A) 2020-21 Group Garnet	No	Female	10	K10	White	false	03/09/2006		No	Andrea  Rodenhaus	
+900461060	Bugay-Dixon	Miranda	Lee	No	No	No	(20A) 2020-21 Group Garnet	No	Female	11	LMC	White	false	07/15/2005		Yes	Clement  Smith	
+900463585	Bugbee	Olivia	Rae	No	No	No	(20B) 2020-21 Group Gray	No	Female	10	K31	White	false	01/12/2006		No	Andrea  Rodenhaus	
+900451692	Bull	Joseph	Scott	No	No	No	(20A) 2020-21 Group Garnet	No	Male	12	N3	White	false	04/14/2004		No	Tara  Wasilewski	
+900447001	Bull	Justin	James	No	No	No	(20A) 2020-21 Group Garnet	No	Male	11	N17	White	false	12/16/2004		Yes	Clement  Smith	
+091050001	Bull	Paige	Lillian	No	No	No	(20A) 2020-21 Group Garnet	No	Female	9	N4	White	false	11/30/2007		Yes	Julie  vanBourgondien	
+101390000	Burdukov	Mark	Nikolay	No	No	No	(20B) 2020-21 Group Gray	No	Male	11	N16	White	false	03/27/2005		No	Clement  Smith	
+900438995	Burgess	Ty	Jacob	No	No	No	(20A) 2020-21 Group Garnet	No	Male	11	N6	White	false	04/10/2005		Yes	Clement  Smith	
+900456649	Burgio	Robert	Anthony	No	No	No	(20A) 2020-21 Group Garnet	No	Male	9	K7	White	false	10/17/2007		Yes	Julie  vanBourgondien	
+900463255	Burke	Sarah	Francis	No	No	No	(20A) 2020-21 Group Garnet	No	Female	12	BOCES	White	false	07/03/2003		No	Tara  Wasilewski	
+900440829	Burns	Anthony	James	No	No	No	(20C) 2020-21 Group SOLA	No	Male	12	BOCES	White	false	05/28/2004		Yes	Tara  Wasilewski	
+900438996	Burt	Emilie	Catherine	No	No	No	(20A) 2020-21 Group Garnet	No	Female	12	K18	White	false	03/08/2004		No	Tara  Wasilewski	
+900461277	Bush	Austin	Kade	No	No	No	(20A) 2020-21 Group Garnet	No	Male	11	N9	White	false	07/11/2005		Yes	Clement  Smith	
+900455591	Bush	Evan	Matthew	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	12	K27	White	false	09/29/2003		Yes	Julie  vanBourgondien	
+900461278	Bush	Madyson	Marie	No	No	No	(20A) 2020-21 Group Garnet	No	Female	10	N6	White	false	07/18/2006		Yes	Andrea  Rodenhaus	
+900461968	Butler	Ryan	Thomas	No	No	No	(20A) 2020-21 Group Garnet	No	Male	11	N16	White	false	09/26/2004		Yes	Clement  Smith	
+900461471	Butski	Emily	Marie	No	No	No	(20A) 2020-21 Group Garnet	No	Female	10	N28	White	false	02/03/2006		Yes	Andrea  Rodenhaus	
+900439048	Buttitta	Talia	Ellen	No	No	No	(20A) 2020-21 Group Garnet	No	Female	12	N10	White	false	08/27/2004		Yes	Tara  Wasilewski	
+900427279	Buzzeo	Alexander	Christian	No	No	No	(20A) 2020-21 Group Garnet	No	Male	12	LMC	White	false	09/26/2003		Yes	Tara  Wasilewski	
+100350004	Bykowski	Samuel	Antonio	No	No	No	(20A) 2020-21 Group Garnet	No	Male	11	N16	White	false	06/12/2005		Yes	Clement  Smith	
+900460751	Caldwell	Matthew	Ryan	No	No	No	(20A) 2020-21 Group Garnet	No	Male	11	N3	White	false	05/18/2005		Yes	Clement  Smith	
+900451693	Callahan	Erin	Michelle	No	No	No	(20A) 2020-21 Group Garnet	No	Female	10	L17	White	false	07/15/2006		Yes	Andrea  Rodenhaus	
+101090008	Calvello	Drew	Salvatore	No	No	No	(20A) 2020-21 Group Garnet	No	Male	9	N12	White	false	07/28/2007		Yes	Julie  vanBourgondien	
+100080001	Calvello	Sophia	Grace	No	No	No	(20A) 2020-21 Group Garnet	No	Female	11	N14	White	false	05/11/2005		Yes	Clement  Smith	
+111380017	Campbell	Dominic	Donald	No	No	No	(20C) 2020-21 Group SOLA	No	Male	9	K19	White	false	04/29/2007		Yes	Julie  vanBourgondien	
+100210003	Campione	Marianna	Irene	No	No	Yes	(20C) 2020-21 Group SOLA	No	Female	11	N16	White	false	04/22/2005		Yes	Clement  Smith	
+900463225	Cannizzo	Natilee	R	No	No	Yes	(20A) 2020-21 Group Garnet	No	Female	12	K6	White	false	08/20/2004		Yes	Tara  Wasilewski	
+900462288	Capitumino	Benjamin	Petit	No	No	No	(20A) 2020-21 Group Garnet	No	Male	9	K5	White	false	03/07/2007		Yes	Julie  vanBourgondien	
+900462287	Capitumino	Hayden	Christopher	No	No	No	(20A) 2020-21 Group Garnet	No	Male	11	N13	White	false	03/03/2005		Yes	Clement  Smith	
+100130000	Cardarella III	Frank	Angelo	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	9	L13	White	false	03/07/2007		Yes	Julie  vanBourgondien	
+900461876	Cardinal	Avery	Grace	No	No	No	(20A) 2020-21 Group Garnet	No	Female	11	N20	White	false	03/24/2005		Yes	Clement  Smith	
+900462864	Cardona	Matthew	Joseph	No	No	No	(20A) 2020-21 Group Garnet	No	Male	10	N19	White	true	07/17/2006		No	Andrea  Rodenhaus	
+900460142	Carmody	Avery	Alexander	No	No	No	(20A) 2020-21 Group Garnet	No	Male	11	N18	White	false	09/26/2005		Yes	Clement  Smith	
+900461026	Carmody	Cameron	Ava	No	No	No	(20A) 2020-21 Group Garnet	No	Female	9	L13	White	false	08/09/2007		Yes	Julie  vanBourgondien	
+900457207	Caro	Ryan	Daniel	No	No	No	(20A) 2020-21 Group Garnet	No	Male	9	N12	White	false	10/30/2007		Yes	Julie  vanBourgondien	
+100210000	Case	Aidan	Scott	No	No	No	(20A) 2020-21 Group Garnet	No	Male	11	K6	White	false	06/16/2005		No	Clement  Smith	
+092670001	Case	Brady	Christopher	No	No	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	9	ALC	White	false	04/17/2007		Yes	Julie  vanBourgondien	
+091940001	Castro	Mykenzie	Kaeleine	No	No	No	(20A) 2020-21 Group Garnet	No	Female	11	N6	White	false	10/04/2005		No	Clement  Smith	
+101090010	Castro	Olyvia	Peighton	No	No	No	(20A) 2020-21 Group Garnet	No	Female	9	N4	White	false	01/01/2007		Yes	Julie  vanBourgondien	
+900456653	Casullo	Ella	Marie	No	No	No	(20A) 2020-21 Group Garnet	No	Female	10	N28	White	false	12/30/2005		No	Andrea  Rodenhaus	
+900463958	Catanese	Alyssa	Marie	No	No	No	(20C) 2020-21 Group SOLA	No	Female	10	K11	White	false	05/24/2006		Yes	Andrea  Rodenhaus	
+900463957	Catanese	Austin	Michael	No	No	No	(20A) 2020-21 Group Garnet	No	Male	11	K16	White	false	10/11/2004		No	Clement  Smith	
+111380018	Catanese	Julia	Grace	No	No	Yes	(20A) 2020-21 Group Garnet	No	Female	9	K4	White	false	06/27/2007		Yes	Julie  vanBourgondien	
+900461670	Ceno	Lauren		No	No	Yes	(20A) 2020-21 Group Garnet	No	Female	10	K17	White	false	10/02/2006		Yes	Andrea  Rodenhaus	
+110410001	Cerrone	Emily	Grace	No	No	No	(20A) 2020-21 Group Garnet	No	Female	10	N29	White	false	11/04/2006		No	Andrea  Rodenhaus	
+111600000	Charnick	Emma	Rose	No	No	No	(20C) 2020-21 Group SOLA	No	Female	10	K10	White	false	10/20/2006		No	Andrea  Rodenhaus	
+900455492	Chase	Marissa	Vivian	No	No	No	(20A) 2020-21 Group Garnet	No	Female	12	K18	White	false	07/08/2004		No	Tara  Wasilewski	
+900448269	Checlosky	Mathew	Wesley Curtis	No	Yes	No	(20C) 2020-21 Group SOLA	No	Male	12	LMC	White	false	01/27/2004		Yes		
+111380019	Chronister	Hannah	Joy	No	No	No	(20A) 2020-21 Group Garnet	No	Female	9	K30	White	false	09/28/2007		Yes	Julie  vanBourgondien	
+900462798	Chukhanenko	Alex	A	No	No	No	(20A) 2020-21 Group Garnet	No	Male	11	N16	White	false	07/01/2005		Yes	Clement  Smith	
+900463251	Church	Connor	Andrew	No	No	No	(20A) 2020-21 Group Garnet	No	Male	10	N5	White	false	12/22/2005		No	Andrea  Rodenhaus	
+900460971	Churpita	Ella	Shae	No	No	No	(20D) 2020-21 Group D (Everyday Students)	No	Female	9	N4	White	false	05/02/2007		Yes	Julie  vanBourgondien	
+110470001	Cianflone	Courtney	Isabella	No	No	No	(20A) 2020-21 Group Garnet	No	Female	10	K31	White	false	01/08/2006		No	Andrea  Rodenhaus	
+091050004	Ciraolo	Joshua	Thomas	No	No	No	(20A) 2020-21 Group Garnet	No	Male	10	N19	White	false	05/18/2006		Yes	Andrea  Rodenhaus	
+090570001	Ciraolo	Matthew	David	No	No	No	(20A) 2020-21 Group Garnet	No	Male	12	K18	White	false	02/06/2004		No	Tara  Wasilewski	
+101330006	Clark	Courtney	Gail	No	No	No	(20A) 2020-21 Group Garnet	No	Female	10	N19	White	false	04/07/2006		No	Andrea  Rodenhaus	
+900458678	Clark	Jenna	Beth	No	No	No	(20A) 2020-21 Group Garnet	No	Female	12	L14	White	false	04/18/2004		Yes	Tara  Wasilewski	
+900462247	Clark	Lucas	Taylor	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	9	L6	White	false	12/08/2006		Yes	Julie  vanBourgondien	
+900459446	Clarke	Zachary	Aaron	No	No	Yes	(20A) 2020-21 Group Garnet	No	Male	10	L6	White	false	07/31/2006		No	Andrea  Rodenhaus	
+900456654	Class	Mackenzie	Grace	No	No	No	(20A) 2020-21 Group Garnet	No	Female	10	N28	White	false	11/08/2006		No	Andrea  Rodenhaus	
+900459127	Cobb	Ryan	Philip	No	No	No	(20A) 2020-21 Group Garnet	No	Male	10	K17	White	false	02/26/2006		Yes	Andrea  Rodenhaus	
+900457106	Colella	Giuliana	Grace	No	No	Yes	(20A) 2020-21 Group Garnet	No	Female	9	ALC	White	false	10/19/2007		Yes	Julie  vanBourgondien	
+900456044	Coleman	Keith	Steven	No	No	Yes	(20A) 2020-21 Group Garnet	No	Male	12	BOCES	White	false	10/16/2003		No	Tara  Wasilewski	
+900456656	Coleman	Victoria	Ashley	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Female	11	L17	White	false	07/10/2005		No	Clement  Smith	
+900463978	Connors	Lily	Ocean	No	No	No	(20A) 2020-21 Group Garnet	No	Female	10	L17	White	false	01/04/2007		Yes	Andrea  Rodenhaus	
+111380020	Cook	Lillian	Rae	No	No	No	(20A) 2020-21 Group Garnet	No	Female	9	N12	White	false	06/26/2007		Yes	Julie  vanBourgondien	
+900462697	Cook	Olivia	Faith	No	No	No	(20A) 2020-21 Group Garnet	No	Female	9	K27	White	false	05/10/2007		Yes	Julie  vanBourgondien	
+111380000	Cooney	Chloe	Jayne	No	No	No	(20A) 2020-21 Group Garnet	No	Female	9	K4	White	false	03/30/2007		Yes	Julie  vanBourgondien	
+900464449	Cortes Jr.	Luis	Antonio	No	No	No		No	Male	10	N20	White	true	04/28/2005		No	Andrea  Rodenhaus	
+111020000	Cosimano	Julianna	Renalda	No	No	Yes	(20C) 2020-21 Group SOLA	No	Female	10	N19	White	false	02/23/2006		Yes	Andrea  Rodenhaus	
+091050006	Coughlin	Emma	Ruth	No	No	No	(20D) 2020-21 Group D (Everyday Students)	No	Female	9	K19	White	false	12/26/2006		Yes	Julie  vanBourgondien	
+900459065	Coughlin	Trevor	Andrew	No	No	No	(20A) 2020-21 Group Garnet	No	Male	12	BOCES	White	false	11/01/2004		Yes	Tara  Wasilewski	
+900460713	Covey	Chloe	Madison	No	No	No	(20D) 2020-21 Group D (Everyday Students)	No	Female	10	L17	White	false	07/06/2006		Yes	Andrea  Rodenhaus	
+101180000	Covey	Cora	Mae	No	No	No	(20A) 2020-21 Group Garnet	No	Female	11	L17	White	false	05/29/2005		No	Clement  Smith	
+900459392	Cox	Braeden	Anthony	No	No	No	(20A) 2020-21 Group Garnet	No	Male	10	N19	White	false	07/24/2006		Yes	Andrea  Rodenhaus	
+900459356	Crawford	Lucas	Andrew	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	10	N29	White	false	08/05/2006		No	Andrea  Rodenhaus	
+900456659	Cress	Hayley	Marie	No	No	No	(20A) 2020-21 Group Garnet	No	Female	9	K5	White	false	12/22/2006		Yes	Julie  vanBourgondien	
+092030003	Cribbs	Sebastian	Henry	No	No	Yes	(20C) 2020-21 Group SOLA	No	Male	11	N9	White	false	01/20/2005		Yes	Clement  Smith	
+101820002	Culligan	Breanna	Marie	No	No	No	(20A) 2020-21 Group Garnet	No	Female	11	L17	White	false	01/01/2005		Yes	Clement  Smith	
+111440003	Cunningham	Brady	John	No	No	No	(20A) 2020-21 Group Garnet	No	Male	9	N12	White	false	08/27/2007		Yes	Julie  vanBourgondien	
+900455128	Curione	Emma	Denise	No	No	No	(20A) 2020-21 Group Garnet	No	Female	11	LMC	White	false	05/16/2005		No	Clement  Smith	
+900455129	Curione	Lily	Anne	No	No	No	(20A) 2020-21 Group Garnet	No	Female	9	K5	White	false	07/02/2007		Yes	Julie  vanBourgondien	
+100770002	Curione	Luca	Leonard	No	No	No	(20A) 2020-21 Group Garnet	No	Male	10	N29	White	false	10/31/2005		No	Andrea  Rodenhaus	
+900460926	Curvin	Sean	Patrick	No	No	No	(20A) 2020-21 Group Garnet	No	Male	9	N4	White	false	07/29/2007		Yes	Julie  vanBourgondien	
+111780000	Cyr	Michael	Jerson Reo	No	No	No	(20A) 2020-21 Group Garnet	No	Male	10	K11	White	true	06/02/2006		No	Andrea  Rodenhaus	
+091490000	Cyrek	Jacob	Joseph	No	No	No	(20A) 2020-21 Group Garnet	No	Male	10	K10	White	false	11/25/2006		Yes	Andrea  Rodenhaus	
+900461099	Daeschler	Gianna	Elise	No	No	No	(20A) 2020-21 Group Garnet	No	Female	12	LMC	White	false	04/23/2004		Yes	Tara  Wasilewski	
+900463680	D'Aloise	DeAngelo	Joseph	No	No	No	(20A) 2020-21 Group Garnet	No	Male	10	L15	White	false	11/14/2006		Yes	Andrea  Rodenhaus	
+111380001	Danielewicz	Liliana	Rose	No	No	No	(20C) 2020-21 Group SOLA	No	Female	9	K30	White	false	09/08/2007		Yes	Julie  vanBourgondien	
+100540001	Darlak	Cole	Robert	No	No	No	(20A) 2020-21 Group Garnet	No	Male	11	LMC	White	false	09/22/2005		No	Clement  Smith	
+900461861	Darlak	Ethan	Christopher	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	11	N18	White	false	07/27/2005		No	Clement  Smith	
+900461863	Darlak	Leighton	John	No	Yes	No	(20C) 2020-21 Group SOLA	No	Male	9	L6	White	false	10/17/2007		Yes	Julie  vanBourgondien	
+900424140	Davis	Luke	Alexander	No	No	No	(20A) 2020-21 Group Garnet	No	Male	11	L14	White	false	12/11/2004		Yes	Clement  Smith	
+101170001	Davis	Shelby	Rae	No	No	No	(20A) 2020-21 Group Garnet	No	Female	12	BOCES	White	false	08/07/2004		No	Tara  Wasilewski	
+111440007	Day	Ashlee	Nicole	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Female	9	L6	White	false	05/09/2007		No	Julie  vanBourgondien	
+090330003	Day	David	Barent	No	No	No	(20A) 2020-21 Group Garnet	No	Male	12	BOCES	White	false	08/08/2004		No	Tara  Wasilewski	
+091050007	Day	Makaela	Cassidy Barbara	No	No	No	(20A) 2020-21 Group Garnet	No	Female	11	N16	White	false	08/27/2005		No	Clement  Smith	
+900451696	Dean	Evan	John	No	No	Yes	(20A) 2020-21 Group Garnet	No	Male	10	N19	White	false	09/16/2005		No	Andrea  Rodenhaus	
+900460721	DellaPenna	Siena	Rose	No	No	No	(20A) 2020-21 Group Garnet	No	Female	10	L17	White	false	09/21/2006		Yes	Andrea  Rodenhaus	
+900418725	Dell'Oso	Carly	Elizabeth	No	No	No	(20A) 2020-21 Group Garnet	No	Female	12	L17	White	false	04/05/2004		No	Tara  Wasilewski	
+900461542	Deney	Caitlin	Grace	No	No	No	(20C) 2020-21 Group SOLA	No	Female	9	K7	White	false	06/18/2007		Yes	Julie  vanBourgondien	
+900461543	Deney	Richard	Anthony	No	No	No	(20A) 2020-21 Group Garnet	No	Male	10	N28	White	false	04/17/2006		Yes	Andrea  Rodenhaus	
+900456312	DePasquale	Charles	Robert	No	No	No	(20A) 2020-21 Group Garnet	No	Male	12	N3	White	false	06/21/2004		Yes	Tara  Wasilewski	
+900456313	DePasquale	Michael	Charles	No	No	No	(20A) 2020-21 Group Garnet	No	Male	10	N5	White	false	04/25/2006		Yes	Andrea  Rodenhaus	
+900464244	Depew	JuliAnn	May	No	No	No		No	Female	9	L13	White	false	07/07/2006		No	Julie  vanBourgondien	
+900462642	Dever	Lianna	Beth	No	No	No	(20C) 2020-21 Group SOLA	No	Female	9	K7	White	false	05/20/2007		Yes	Julie  vanBourgondien	
+900460853	Devereaux	Sarah	Melanie	No	No	Yes	(20A) 2020-21 Group Garnet	No	Female	11	N18	White	false	05/26/2005		No	Clement  Smith	
+900460152	Devereaux	Shay-Lynn	Marie	No	No	No	(20C) 2020-21 Group SOLA	No	Female	11	N20	White	false	11/01/2005		No	Clement  Smith	
+900461006	DiaPaul	Gabriella	Angelina	No	No	No		No	Female	9	K7	White	false	12/04/2006		Yes	Julie  vanBourgondien	
+900451698	DiaPaul	Grace	Elizabeth	No	No	No	(20A) 2020-21 Group Garnet	No	Female	12	L14	White	false	06/14/2004		No	Tara  Wasilewski	
+900461930	Diaz	Marco	Xavier	No	No	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	9	K7	White	true	11/06/2007		Yes	Julie  vanBourgondien	
+900407984	Dickey	Rachel	Ann	No	No	No	(20A) 2020-21 Group Garnet	No	Female	12	K18	White	false	01/29/2004		No	Tara  Wasilewski	
+900451697	Dickey	Simon	Thomas	No	No	No	(20A) 2020-21 Group Garnet	No	Male	9	K5	White	false	11/07/2006		Yes	Julie  vanBourgondien	
+900463988	Diel	Emma	Katherine Serene	No	No	No	(20C) 2020-21 Group SOLA	No	Female	10	N13	White	true	07/26/2006		No	Andrea  Rodenhaus	
+100960000	Dillon	Demone	Deacon	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	12	BOCES	Multiracial	false	11/14/2003		No	Tara  Wasilewski	
+101090013	DiPasquale	Gianna	Lyn	No	No	No	(20A) 2020-21 Group Garnet	No	Female	9	L13	White	false	12/09/2006		Yes	Julie  vanBourgondien	
+100780003	DiPasquale	Julia	Ann	No	No	No	(20A) 2020-21 Group Garnet	No	Female	11	L14	White	false	06/17/2005		Yes	Clement  Smith	
+900460858	DiPirro	Luke	Edward	No	No	No	(20B) 2020-21 Group Gray	No	Male	10	L6	White	false	05/26/2006		Yes	Andrea  Rodenhaus	
+900461580	Doctor	Davin	Mitchell	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	11	N18	White	false	04/11/2005		No	Clement  Smith	
+900461579	Doctor	Deanna	May	No	No	No	(20A) 2020-21 Group Garnet	No	Female	9	K7	White	false	10/18/2007		Yes	Julie  vanBourgondien	
+103430000	Doherty	Maeve	Isabel	No	No	No	(20A) 2020-21 Group Garnet	No	Female	9	L13	White	false	09/05/2007		Yes	Julie  vanBourgondien	
+900451700	Donovan	Matthew	Christopher	No	No	No	(20A) 2020-21 Group Garnet	No	Male	12	BOCES	White	false	05/19/2004		Yes	Tara  Wasilewski	
+900462225	Dorgan	Jillian	Christine	No	No	No	(20A) 2020-21 Group Garnet	No	Female	10	N21	White	false	01/12/2006		No	Andrea  Rodenhaus	
+900463535	Douglass	Dorothy	Anne	No	No	No	(20A) 2020-21 Group Garnet	No	Female	10	K17	White	false	06/04/2006		Yes	Andrea  Rodenhaus	
+900461365	Drake	Jordan	Lee	No	No	No	(20C) 2020-21 Group SOLA	No	Male	11	LMC	White	false	01/08/2005		No	Clement  Smith	
+900461077	Ducharme	Hunter	Andrew	No	No	No	(20A) 2020-21 Group Garnet	No	Male	11	N9	White	false	07/06/2005		Yes	Clement  Smith	
+900460138	Duffin	Nathan	William	No	No	No	(20A) 2020-21 Group Garnet	No	Male	10	N29	White	false	05/23/2006		Yes	Andrea  Rodenhaus	
+900457646	Duffy	Sean	Reinhold	No	No	No	(20A) 2020-21 Group Garnet	No	Male	11	N17	White	false	01/12/2005		Yes	Clement  Smith	
+111010003	Duncan	Jordan	Ann	No	No	No	(20A) 2020-21 Group Garnet	No	Female	9	K7	White	false	05/02/2007		Yes	Julie  vanBourgondien	
+110180000	Duncan	Joslynn	Marie	No	No	No	(20A) 2020-21 Group Garnet	No	Female	10	K11	White	false	01/01/2006		No	Andrea  Rodenhaus	
+900456661	Dwyer	Adam	Robert	No	No	No	(20A) 2020-21 Group Garnet	No	Male	9	N4	White	false	10/01/2006		Yes	Julie  vanBourgondien	
+900456662	Dwyer	Natalie	Beatrice	No	No	No	(20A) 2020-21 Group Garnet	No	Female	9	ALC	White	false	10/01/2006		Yes	Julie  vanBourgondien	
+900438230	Eberz	Olivia	Clarissa	No	No	No	(20B) 2020-21 Group Gray	No	Female	10	N29	White	false	12/08/2005		Yes	Andrea  Rodenhaus	
+900451701	Eckler	Sadie	Elizabeth	No	No	No	(20A) 2020-21 Group Garnet	No	Female	12	K18	White	false	03/03/2004		Yes	Tara  Wasilewski	
+900439536	Edbauer	Gregory	David	No	No	No	(20A) 2020-21 Group Garnet	No	Male	12	K18	White	false	08/10/2004		No	Tara  Wasilewski	
+111400001	Edwards	Matthew	Alexander	No	No	No	(20B) 2020-21 Group Gray	No	Male	10	N29	Multiracial	false	09/18/2006		No	Andrea  Rodenhaus	
+900459047	Eiss	Eathon	Craig	No	No	No	(20A) 2020-21 Group Garnet	No	Male	10	N6	White	false	05/04/2006		No	Andrea  Rodenhaus	
+900457255	Eleey	Ayden	Barry	No	No	No	(20A) 2020-21 Group Garnet	No	Male	11	N18	White	false	02/27/2005		Yes	Clement  Smith	
+900462788	Elicier	Chineska	Nadieliz	No	Yes	No	(20C) 2020-21 Group SOLA	No	Female	12	K16	White	true	09/04/2004		No	Tara  Wasilewski	
+900462787	Elicier	Naida	Ileila	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	LEP Eligible - Yes	Female	9	K22	Black/African American	true	04/06/2007		Yes	Julie  vanBourgondien	
+900462317	Ellis	Emily	Elizabeth	No	No	No	(20A) 2020-21 Group Garnet	No	Female	10	N19	White	false	03/20/2006		Yes	Andrea  Rodenhaus	
+900424291	Elson	Grace	Nicole	No	No	No	(20C) 2020-21 Group SOLA	No	Female	12	K18	White	false	12/01/2004		No	Tara  Wasilewski	
+900461102	Ely	Zachary	Bernard	No	No	No	(20A) 2020-21 Group Garnet	No	Male	10	K31	White	false	03/24/2006		Yes	Andrea  Rodenhaus	
+110340001	Ensminger	Addison	Christine	No	No	No	(20A) 2020-21 Group Garnet	No	Female	10	K11	White	false	06/01/2006		Yes	Andrea  Rodenhaus	
+111020001	Ernst	Ella	Marie	No	No	No	(20A) 2020-21 Group Garnet	No	Female	9	K22	White	false	04/05/2007		Yes	Julie  vanBourgondien	
+110830000	Ernst	Ethan	Robert	No	No	No	(20A) 2020-21 Group Garnet	No	Male	10	N5	White	false	12/16/2005		Yes	Andrea  Rodenhaus	
+900464105	Esposito	Alexis	Jade	No	No	No	(20A) 2020-21 Group Garnet	No	Female	12	K27	White	false	11/04/2004		Yes	Tara  Wasilewski	
+900462295	Fabian	Colin	Joseph	No	No	No	(20B) 2020-21 Group Gray	No	Male	9	L13	White	false	04/05/2007		Yes	Julie  vanBourgondien	
+100400003	Farace	Ariana	Elise	No	No	No	(20C) 2020-21 Group SOLA	No	Female	11	N17	White	false	08/04/2005		Yes	Clement  Smith	
+900461379	Farley	Allison	E	No	No	No	(20A) 2020-21 Group Garnet	No	Female	11	N16	White	false	03/07/2005		No	Clement  Smith	
+900459042	Farnham	Branden	William	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	12	BOCES	White	false	08/23/2004		No	Tara  Wasilewski	
+900447742	Farrell	Gavin	Patrick	No	No	No	(20A) 2020-21 Group Garnet	No	Male	10	N5	White	false	04/29/2006		No	Andrea  Rodenhaus	
+101330015	Fedder	Joseph	William	No	No	No	(20A) 2020-21 Group Garnet	No	Male	10	K17	White	false	03/21/2006		No	Andrea  Rodenhaus	
+091110002	Feeley	Jordan	Elizabeth	No	No	No	(20A) 2020-21 Group Garnet	No	Female	12	N10	White	false	09/16/2004		Yes	Tara  Wasilewski	
+091180000	Feeley	Sydney	Reese	No	No	No	(20A) 2020-21 Group Garnet	No	Female	9	K19	White	false	09/29/2007		Yes	Julie  vanBourgondien	
+100610000	Fidanza	Maggie	Mae	No	No	No	(20C) 2020-21 Group SOLA	No	Female	11	N6	White	false	07/05/2005		Yes	Clement  Smith	
+900461352	Fields	Sean	Oakden	No	No	No	(20A) 2020-21 Group Garnet	No	Male	9	ALC	White	false	08/05/2007		No	Julie  vanBourgondien	
+900464319	Fiorita	James		No	No	No		No	Male	9	K30	White	false	03/31/2007		No	Julie  vanBourgondien	
+102430001	Fish	Drew	Melvin	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	9	K22	White	false	11/06/2006		Yes	Julie  vanBourgondien	
+093170004	Fitzgerald	Patrick	Logan	No	No	No	(20C) 2020-21 Group SOLA	No	Male	11	K16	White	false	12/14/2004		No	Clement  Smith	
+900451704	Floreano	Anna	Mae	No	No	No	(20A) 2020-21 Group Garnet	No	Female	11	N17	White	false	09/01/2005		Yes	Clement  Smith	
+900451705	Floreano	Brayden	Joseph	No	No	No	(20A) 2020-21 Group Garnet	No	Male	11	K31	White	false	09/01/2005		No	Clement  Smith	
+900461129	Floss	Evan	Timothy	No	No	No	(20A) 2020-21 Group Garnet	No	Male	10	K10	White	false	03/03/2006		Yes	Andrea  Rodenhaus	
+900424161	Flynn	Haley	Aileen	No	No	No	(20A) 2020-21 Group Garnet	No	Female	11	N20	White	false	10/29/2004		Yes	Clement  Smith	
+900461645	Forsey	Abigail	Mary	No	No	No		No	Female	9	K4	White	false	08/24/2007		Yes	Julie  vanBourgondien	
+110480000	Fraass	Jaimie	Rose	No	No	No	(20A) 2020-21 Group Garnet	No	Female	10	N28	White	false	05/23/2006		Yes	Andrea  Rodenhaus	
+101330016	Franke	Ella	Marie	No	No	No	(20A) 2020-21 Group Garnet	No	Female	10	K10	White	false	04/14/2006		Yes	Andrea  Rodenhaus	
+090980003	Franke	Travis	Walter	No	No	No	(20A) 2020-21 Group Garnet	No	Male	12	BOCES	White	false	01/16/2004		No	Tara  Wasilewski	
+900462280	Freas	Skylar	Ann	No	No	No	(20C) 2020-21 Group SOLA	No	Female	9	K30	White	false	05/04/2007		Yes	Julie  vanBourgondien	
+100970002	Freeland	Damen	Robert	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	11	N18	White	false	11/30/2005		No	Clement  Smith	
+900462353	Fritton	Ellie	Caitlin	No	No	Yes	(20A) 2020-21 Group Garnet	No	Female	10	N19	White	false	09/27/2006		Yes	Andrea  Rodenhaus	
+111440009	Full	Ethan	Joseph	No	No	No	(20B) 2020-21 Group Gray	No	Male	9	L13	White	false	04/16/2007		Yes	Julie  vanBourgondien	
+900459063	Funari	Marisa	Alexandria	No	No	No	(20A) 2020-21 Group Garnet	No	Female	12	N10	White	false	07/25/2004		Yes	Tara  Wasilewski	
+900450710	Gali	Faith	Lisa	No	No	No	(20A) 2020-21 Group Garnet	No	Female	11	N18	White	false	12/11/2004		Yes	Clement  Smith	
+101100003	Gali	Liliana	Kayla	No	No	No	(20A) 2020-21 Group Garnet	No	Female	10	N19	White	false	07/18/2006		Yes	Andrea  Rodenhaus	
+900458904	Galipeau	Grace	Lynn	No	No	No	(20A) 2020-21 Group Garnet	No	Female	12	K18	White	false	09/07/2004		Yes	Tara  Wasilewski	
+091550000	Gareau	David	Joseph	No	No	Yes	(20A) 2020-21 Group Garnet	No	Male	12	BOCES	White	false	11/04/2004		Yes	Tara  Wasilewski	
+091810002	Gareau (Gear-ro)	Richard	John	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	11	N18	White	false	11/08/2005		Yes	Clement  Smith	
+900419453	Gellerson	Mackenzie	Carolyn	No	No	No	(20A) 2020-21 Group Garnet	No	Female	12	K18	White	false	12/19/2003		Yes	Tara  Wasilewski	
+900424167	Geltz	Trinity	Ann	No	No	No	(20C) 2020-21 Group SOLA	No	Female	12	K6	White	false	02/18/2004		Yes	Tara  Wasilewski	
+900463643	Gendron	Kailey	Elizabeth	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Female	12	K6	White	false	09/26/2003		Yes	Julie  vanBourgondien	
+110980004	Genkinger	Addison	Rae	No	No	No	(20A) 2020-21 Group Garnet	No	Female	9	N12	White	false	05/21/2007		Yes	Julie  vanBourgondien	
+110980003	Genkinger	Zachary	William	No	No	No	(20A) 2020-21 Group Garnet	No	Male	10	L15	White	false	11/17/2005		Yes	Andrea  Rodenhaus	
+900462383	George	Alex	Sala	No	No	No	(20A) 2020-21 Group Garnet	No	Male	9	K4	Multiracial	false	02/21/2007		Yes	Julie  vanBourgondien	
+900463615	George	Tatum	Christina	No	No	No	(20A) 2020-21 Group Garnet	No	Female	9	N4	White	false	12/30/2006		Yes	Julie  vanBourgondien	
+900439044	Gerhard	Justin	Michael	No	No	No	(20A) 2020-21 Group Garnet	No	Male	12	K16	White	false	01/06/2004		Yes	Tara  Wasilewski	
+900452554	Gerwitz	Benjamin	James	No	No	No	(20A) 2020-21 Group Garnet	No	Male	12	K18	White	false	07/07/2004		Yes	Tara  Wasilewski	
+900456666	Getsler	Ethan	Andrew	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	9	K22	White	false	04/26/2007		Yes	Julie  vanBourgondien	
+103480000	Gfroerer	Mason	Patrick	No	No	Yes	(20A) 2020-21 Group Garnet	No	Male	10	N28	White	false	12/12/2005		Yes	Andrea  Rodenhaus	
+900456668	Giamberdino	Mia	Emily	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Female	9	K22	White	false	11/24/2007		Yes	Julie  vanBourgondien	
+100960003	Gianadda Jr.	Anthony	Joseph	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	9	N4	White	false	08/20/2007		Yes	Julie  vanBourgondien	
+900456669	Gibbons	Alison	Marie	No	No	No	(20A) 2020-21 Group Garnet	No	Female	12	N10	White	false	08/08/2004		Yes	Tara  Wasilewski	
+900451203	Gielow	Ava	May	No	No	No	(20A) 2020-21 Group Garnet	No	Female	12	LMC	White	false	05/19/2004		Yes	Tara  Wasilewski	
+900458101	Gielow	Ella	Susan	No	No	No	(20A) 2020-21 Group Garnet	No	Female	9	K7	White	false	11/28/2007		Yes	Julie  vanBourgondien	
+900461966	Gill	Evan	James	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	9	K22	White	false	05/14/2007		No	Julie  vanBourgondien	
+090570005	Ginnane	Anthony	Thomas	No	No	No	(20A) 2020-21 Group Garnet	No	Male	12	L14	White	false	06/28/2004		Yes	Tara  Wasilewski	
+091050012	Ginnane	Brianna	Siobhan	No	No	No	(20A) 2020-21 Group Garnet	No	Female	10	K10	White	false	03/30/2006		Yes	Andrea  Rodenhaus	
+100540003	Giron	Meghan	Maria	No	No	No	(20A) 2020-21 Group Garnet	No	Female	11	N13	White	false	11/09/2005		No	Clement  Smith	
+101330017	Glena	Marcella	Ryan	No	No	No	(20A) 2020-21 Group Garnet	No	Female	9	K22	White	false	11/10/2006		Yes	Julie  vanBourgondien	
+900460985	Glena	Paige	Olivia	No	No	No	(20A) 2020-21 Group Garnet	No	Female	9	K5	White	false	08/04/2007		Yes	Julie  vanBourgondien	
+900439016	Glynn	Solomon	Todd	No	No	No	(20A) 2020-21 Group Garnet	No	Male	12	N10	White	false	09/15/2004		Yes	Tara  Wasilewski	
+900461520	Gniazdowski	Colin	John	No	No	Yes	(20A) 2020-21 Group Garnet	No	Male	9	ALC	White	false	05/02/2007		Yes	Julie  vanBourgondien	
+900461519	Gniazdowski	Nathan	Charles	No	No	No	(20A) 2020-21 Group Garnet	No	Male	11	N14	White	false	02/13/2005		Yes	Clement  Smith	
+101330018	Gore	Sarah	Alene	No	No	Yes	(20A) 2020-21 Group Garnet	No	Female	10	N29	White	false	06/01/2006		Yes	Andrea  Rodenhaus	
+093430001	Gorman	Thomas	Mojo	No	No	No		No	Male	12	K16	White	false	02/14/2004		Yes	Tara  Wasilewski	
+093430002	Gorman	Travis	Mack	No	No	No	(20C) 2020-21 Group SOLA	No	Male	12	N28	White	false	06/25/2005		Yes	Clement  Smith	
+102710000	Goudy	Ella	Kathryn	No	No	No		No	Female	10	N29	White	false	12/01/2005		Yes	Andrea  Rodenhaus	
+900461532	Graczyk	Kaelyn	Rae	No	No	No	(20A) 2020-21 Group Garnet	No	Female	12	N16	White	false	07/09/2004		Yes	Clement  Smith	
+900463224	Grady	Michael	Benjamin	No	No	No	(20A) 2020-21 Group Garnet	No	Male	9	K7	White	false	07/25/2007		Yes	Julie  vanBourgondien	
+900462719	Grainy	Landon	Dominic	No	No	No	(20B) 2020-21 Group Gray	No	Male	11	K6	White	false	02/01/2005		No	Clement  Smith	
+900457720	Grapes	Alexander	Shawn	No	No	No	(20A) 2020-21 Group Garnet	No	Male	11	N20	White	false	04/01/2005		Yes	Clement  Smith	
+900451709	Grear	Mollie	Lee	No	No	No	(20C) 2020-21 Group SOLA	No	Female	9	K27	White	false	12/08/2006		Yes	Julie  vanBourgondien	
+900454919	Greco	Antonio	Paul	No	Yes	No	(20C) 2020-21 Group SOLA	No	Male	11	N18	White	false	02/25/2004		No	Clement  Smith	
+900461546	Greco	Gabriella	Kathleen	No	No	No	(20C) 2020-21 Group SOLA	No	Female	10	N19	White	false	04/12/2006		No	Andrea  Rodenhaus	
+900461545	Greco	Isabella	Giuseppa	No	No	No	(20C) 2020-21 Group SOLA	No	Female	10	N29	White	false	04/12/2006		No	Andrea  Rodenhaus	
+091050015	Greco	Sofia	Rose	No	Yes	No	(20C) 2020-21 Group SOLA	No	Female	11	K16	White	false	08/31/2005		Yes	Clement  Smith	
+900461025	Griesmer	Jackson	Ryan	No	No	No	(20A) 2020-21 Group Garnet	No	Male	9	N12	White	false	09/05/2007		Yes	Julie  vanBourgondien	
+900462436	Griffin	Gavin	Robert	No	No	No	(20A) 2020-21 Group Garnet	No	Male	10	N5	White	false	11/24/2005		Yes	Andrea  Rodenhaus	
+100620003	Griffith	Joshua		No	No	No	(20A) 2020-21 Group Garnet	No	Male	11	N9	White	false	08/29/2005		Yes	Clement  Smith	
+900458939	Griggs	Joshua	Samuel Stephen	No	No	No	(20A) 2020-21 Group Garnet	No	Male	10	N28	White	false	04/11/2006		Yes	Andrea  Rodenhaus	
+900460866	Grimm	Tyler	Joseph	No	No	No	(20A) 2020-21 Group Garnet	No	Male	9	K19	White	false	03/09/2007		Yes	Julie  vanBourgondien	
+900456671	Gross	Ethan	Richard	No	No	Yes	(20A) 2020-21 Group Garnet	No	Male	11	K6	White	false	10/22/2005		No	Clement  Smith	
+101100007	Grzybek	Brianna	Elizabeth	No	No	No	(20A) 2020-21 Group Garnet	No	Female	9	L13	White	false	02/21/2007		No	Julie  vanBourgondien	
+100350005	Guercio	Autumn	Leigh	No	No	No	(20A) 2020-21 Group Garnet	No	Female	10	N19	White	false	09/05/2005		Yes	Andrea  Rodenhaus	
+900462854	Guido	Alexander		No	No	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	11	K16	White	false	07/12/2005		Yes	Clement  Smith	
+900462853	Guido	Austin		No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	10	K7	White	false	08/01/2006		No	Andrea  Rodenhaus	
+900462319	Gunning	Jonathan	Paul	No	No	No	(20A) 2020-21 Group Garnet	No	Male	12	K18	White	false	06/02/2004		No	Tara  Wasilewski	
+900463319	Haag	Benjamin	Patrick	No	No	Yes	(20A) 2020-21 Group Garnet	No	Male	12	N10	White	false	04/15/2004		Yes	Tara  Wasilewski	
+900463320	Haag	Samuel	Rolan	No	No	No	(20A) 2020-21 Group Garnet	No	Male	9	K4	White	false	03/31/2007		Yes	Julie  vanBourgondien	
+900451711	Haak	Matthew	David	No	No	No	(20A) 2020-21 Group Garnet	No	Male	12	LMC	White	false	06/02/2004		Yes	Tara  Wasilewski	
+100970003	Hahn	Ethan	Lee	No	No	No	(20C) 2020-21 Group SOLA	No	Male	11	K6	White	false	04/14/2005		Yes	Clement  Smith	
+900460777	Hallock	Carrisa	Joy	No	No	No	(20A) 2020-21 Group Garnet	No	Female	11	N13	White	false	04/19/2005		No	Clement  Smith	
+102210002	Ham	Mason	Michael	No	No	Yes	(20C) 2020-21 Group SOLA	No	Male	9	K22	White	false	10/03/2007		Yes	Julie  vanBourgondien	
+090220000	Hamm	Morgan	Cayleen	No	No	No	(20A) 2020-21 Group Garnet	No	Female	11	L17	White	false	05/24/2005		No	Clement  Smith	
+900422318	Hamm	Riley	Victoria	No	No	No	(20A) 2020-21 Group Garnet	No	Female	12	K18	White	false	01/01/2004		No	Tara  Wasilewski	
+900461581	Harding	Mason	Christopher	No	No	Yes	(20A) 2020-21 Group Garnet	No	Male	10	L6	White	false	01/07/2006		Yes	Andrea  Rodenhaus	
+900439018	Harlock	Anthony	George	No	No	No	(20C) 2020-21 Group SOLA	No	Male	12	K27	White	false	11/18/2004		Yes	Tara  Wasilewski	
+090710000	Harris	Madison	Jo	No	No	No	(20C) 2020-21 Group SOLA	No	Female	12	N3	White	false	07/14/2004		Yes	Tara  Wasilewski	
+900461522	Harris	Madison	Michelle	No	No	No	(20A) 2020-21 Group Garnet	No	Female	9	K5	White	false	08/09/2007		Yes	Julie  vanBourgondien	
+900461523	Harris	Taylor	Marie	No	No	No	(20A) 2020-21 Group Garnet	No	Female	11	N13	White	false	12/10/2004		Yes	Clement  Smith	
+091530000	Hasley	Trevor	Scott	No	No	Yes	(20A) 2020-21 Group Garnet	No	Male	12	N3	White	false	04/20/2004		Yes	Tara  Wasilewski	
+102030007	Hathaway	Brady	James	No	No	No	(20A) 2020-21 Group Garnet	No	Male	11	N17	White	false	03/08/2005		No	Clement  Smith	
+900457282	Hawkins	Jack	Thomas	No	No	No	(20A) 2020-21 Group Garnet	No	Male	10	K17	White	false	06/25/2006		No	Andrea  Rodenhaus	
+900461515	Hayes	Andrew	Francis	No	No	No	(20A) 2020-21 Group Garnet	No	Male	12	N3	White	false	12/26/2003		Yes	Tara  Wasilewski	
+900458274	Hayes	Elizabeth	Nichole	No	No	Yes	(20A) 2020-21 Group Garnet	No	Female	10	K11	White	false	05/18/2006		No	Andrea  Rodenhaus	
+900458273	Hayes	Jonathan	Alexander	No	No	Yes	(20A) 2020-21 Group Garnet	No	Male	11	N9	White	false	05/23/2005		No	Clement  Smith	
+900461263	Haynes	Sinead	Ella	No	No	No	(20A) 2020-21 Group Garnet	No	Female	12	N6	Asian	false	07/11/2004		Yes	Tara  Wasilewski	
+090680000	Hazel	Leah	Nicole	No	No	No	(20A) 2020-21 Group Garnet	No	Female	12	K27	White	false	05/06/2004		Yes	Tara  Wasilewski	
+091060000	Hazel	Matthew	Ryan	No	No	No	(20A) 2020-21 Group Garnet	No	Male	10	N5	White	false	06/30/2006		No	Andrea  Rodenhaus	
+111780005	Hearn	Andrew	Patrick	No	No	No	(20A) 2020-21 Group Garnet	No	Male	11	N3	White	false	01/25/2005		Yes	Clement  Smith	
+102440002	Heath	Alexander	J	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	10	N21	White	false	04/24/2006		No	Andrea  Rodenhaus	
+102440001	Heath	Zachary	Tyler	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	12	BOCES	White	false	09/13/2004		Yes	Tara  Wasilewski	
+900462194	Herbst	Jacob	David	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	9	K22	White	false	07/04/2007		Yes	Julie  vanBourgondien	
+900458205	Hersee	Kaity	Marie	No	No	Yes	(20A) 2020-21 Group Garnet	No	Female	10	K17	White	false	05/04/2006		Yes	Andrea  Rodenhaus	
+090570004	Hershberger	Kierstyn	Ann	No	No	No	(20A) 2020-21 Group Garnet	No	Female	12	K18	White	false	04/30/2004		No	Tara  Wasilewski	
+091060001	Hershberger	Michael	David	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	9	L6	White	false	09/06/2007		No	Julie  vanBourgondien	
+900461154	Hershey	William	Hay	No	No	No	(20B) 2020-21 Group Gray	No	Male	10	L15	White	false	08/28/2006		No	Andrea  Rodenhaus	
+090770001	Hibbert	Meghan	Rosemary	No	No	No	(20A) 2020-21 Group Garnet	No	Female	12	NA	White	false	05/24/2004		Yes	Tara  Wasilewski	
+900462310	Hickson	Haley	Rose	No	No	No	(20A) 2020-21 Group Garnet	No	Female	11	N9	White	false	04/08/2005		Yes	Clement  Smith	
+900460922	Hillery	Clare	Elizabeth	No	No	No	(20A) 2020-21 Group Garnet	No	Female	9	K19	White	false	10/28/2007		Yes	Julie  vanBourgondien	
+900464370	Hillman	Bradley	Devan	No	No	No		No	Male	10	K10	White	false	08/25/2006		No	Andrea  Rodenhaus	
+100260001	Hinchy	Aiden	John Reuben	No	No	No	(20A) 2020-21 Group Garnet	No	Male	9	K30	White	false	08/29/2007		No	Julie  vanBourgondien	
+111020005	Hobel	Emma	Corinne	No	No	No	(20A) 2020-21 Group Garnet	No	Female	10	K31	White	false	05/21/2006		Yes	Andrea  Rodenhaus	
+900461013	Hodge	Hunter	Cole	No	No	No	(20A) 2020-21 Group Garnet	No	Male	12	K18	White	false	10/11/2004		No	Tara  Wasilewski	
+110450000	Holzbaur	Hudson	James	No	No	No	(20A) 2020-21 Group Garnet	No	Male	10	K31	White	false	05/06/2006		No	Andrea  Rodenhaus	
+900446207	Honkomp	Andrew	Lee	No	No	No	(20A) 2020-21 Group Garnet	No	Male	12	BOCES	White	false	01/09/2004		Yes	Tara  Wasilewski	
+900446209	Honkomp	Mark	Ryan	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	12	BOCES	White	false	01/09/2004		Yes	Tara  Wasilewski	
+101580000	Hoover	Alex	Joseph	No	No	No	(20A) 2020-21 Group Garnet	No	Male	11	K6	White	false	10/20/2004		Yes	Clement  Smith	
+900464392	Horan	Veronica	Helena	No	No	No		No	Female	9	N12	White	false	01/06/2007		No	Julie  vanBourgondien	
+900462958	Hough	Braydon	David	No	No	No	(20A) 2020-21 Group Garnet	No	Male	10	K11	White	false	06/04/2006		Yes	Andrea  Rodenhaus	
+101590001	House	Heidi	Marie	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Female	10	K7	White	false	11/11/2005		Yes	Andrea  Rodenhaus	
+900461965	Howell	Julia	Joyce	No	No	No	(20C) 2020-21 Group SOLA	No	Female	12	N10	White	false	08/31/2004		No	Tara  Wasilewski	
+900462704	Hrab	Irene-Mae	Joanne	No	No	No	(20A) 2020-21 Group Garnet	No	Female	12	K18	White	false	10/26/2004		No	Tara  Wasilewski	
+900462705	Hrab	Joseph	Richard	No	No	No	(20A) 2020-21 Group Garnet	No	Male	10	N19	White	false	10/22/2006		Yes	Andrea  Rodenhaus	
+111380013	Hugill	Sophie	Elizabeth	No	No	No	(20A) 2020-21 Group Garnet	No	Female	9	K19	White	false	06/25/2007		Yes	Julie  vanBourgondien	
+900462614	Hurley	Quinn	Brockway	No	No	No	(20A) 2020-21 Group Garnet	No	Female	10	N28	White	false	06/16/2006		Yes	Andrea  Rodenhaus	
+900424178	Hutchins	Mackenzie	Christine	No	No	No	(20A) 2020-21 Group Garnet	No	Female	12	K16	White	false	11/29/2004		Yes	Tara  Wasilewski	
+111020006	Huttenmaier	Lilly	Rose	No	Yes	No	(20C) 2020-21 Group SOLA	No	Female	10	N29	White	false	08/09/2006		No	Andrea  Rodenhaus	
+900456677	Hylkema	Charles	Maxwell	No	No	No	(20A) 2020-21 Group Garnet	No	Male	9	K19	White	false	03/20/2007		Yes	Julie  vanBourgondien	
+100270002	Innus	Ainsley	Claire	No	No	No	(20A) 2020-21 Group Garnet	No	Female	11	N14	White	false	11/15/2005		Yes	Clement  Smith	
+900460823	Jauch	Jessica	Rose	No	No	No	(20A) 2020-21 Group Garnet	No	Female	9	K5	White	false	12/15/2006		Yes	Julie  vanBourgondien	
+900428813	Jauch	Veda	Marie	No	No	No	(20A) 2020-21 Group Garnet	No	Female	12	L14	White	false	05/23/2004		Yes	Tara  Wasilewski	
+900461396	Jeffords	Aiden	Christopher	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	10	N21	White	false	02/23/2006		No	Andrea  Rodenhaus	
+111470002	Jeffords	Bianca	Elizabeth Marie	No	No	No	(20C) 2020-21 Group SOLA	No	Female	9	N12	White	false	04/22/2007		Yes	Julie  vanBourgondien	
+100610003	Jerla	Brianna	Joan	No	No	No	(20A) 2020-21 Group Garnet	No	Female	11	N5	White	false	06/04/2005		Yes	Clement  Smith	
+100740001	Johnson	Abagail	Brooke	No	No	No	(20C) 2020-21 Group SOLA	No	Female	11	N13	White	false	02/17/2005		No	Clement  Smith	
+101310000	Johnson	Alexa	Marie	No	No	No	(20A) 2020-21 Group Garnet	No	Female	9	N4	White	false	01/21/2007		Yes	Julie  vanBourgondien	
+900457356	Johnson	Austin	Heywood	No	No	No	(20A) 2020-21 Group Garnet	No	Male	12	N10	White	false	10/02/2003		Yes	Tara  Wasilewski	
+900456678	Johnson	Caitlyn	Marie	No	No	Yes	(20C) 2020-21 Group SOLA	No	Female	9	K22	White	false	04/20/2007		Yes	Julie  vanBourgondien	
+900461132	Johnson	Erika	Raquel	No	No	No	(20C) 2020-21 Group SOLA	No	Female	12	L17	Black/African American	false	07/12/2004		Yes	Tara  Wasilewski	
+900462819	Johnson	Jace	Roill	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	10	N29	White	false	09/15/2005		No	Andrea  Rodenhaus	
+101110004	Johnson	Kaydon	Elizabeth	No	No	No	(20A) 2020-21 Group Garnet	No	Female	10	N21	White	false	02/28/2006		Yes	Andrea  Rodenhaus	
+101040001	Johnson	Madison	Rose	No	No	No	(20A) 2020-21 Group Garnet	No	Female	11	N14	White	false	07/18/2005		Yes	Clement  Smith	
+900462213	Johnson	Mallory	Jayne	No	No	No	(20A) 2020-21 Group Garnet	No	Female	11	N20	White	false	10/17/2005		Yes	Clement  Smith	
+900456679	Jones	Ava	Lynn	No	No	Yes	(20C) 2020-21 Group SOLA	No	Female	10	N6	White	false	04/21/2006		Yes	Andrea  Rodenhaus	
+093380000	Jones	Kenneth	Henry	No	No	Yes	(20D) 2020-21 Group D (Everyday Students)	No	Male	9	K30	White	false	05/08/2006		Yes	Julie  vanBourgondien	
+900460146	Jozwiak	Mason	Louis	No	No	No	(20A) 2020-21 Group Garnet	No	Male	9	L13	White	false	07/24/2007		Yes	Julie  vanBourgondien	
+900461700	Kagels-Shank	Trystin	Trinity-Faith	No	No	No	(20B) 2020-21 Group Gray	No	Female	9	N29	White	false	12/30/2006		Yes	Julie  vanBourgondien	
+091330000	Kalbfliesh	Benjamin	Joseph	No	No	Yes	(20C) 2020-21 Group SOLA	No	Male	12	BOCES	White	false	04/13/2004		Yes	Tara  Wasilewski	
+091940005	Kalinski	Ryan	Dale	No	No	No	(20A) 2020-21 Group Garnet	No	Male	11	N13	White	false	08/04/2005		No	Clement  Smith	
+900459049	Kanel	Jenna	Suzanne	No	No	No	(20A) 2020-21 Group Garnet	No	Female	12	K18	White	false	07/23/2004		Yes	Tara  Wasilewski	
+900456683	Kankolenski	Vincent	Michael	No	No	No	(20A) 2020-21 Group Garnet	No	Male	9	K4	White	false	04/05/2007		Yes	Julie  vanBourgondien	
+100350003	Kanwal	Sumair	Singh	No	No	No	(20A) 2020-21 Group Garnet	No	Male	11	N16	Asian	false	02/24/2005		Yes	Clement  Smith	
+111470003	Kasprzak	Colyn	Jace	No	No	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	9	K30	White	false	12/21/2006		Yes	Julie  vanBourgondien	
+900451713	Kasprzak	Noah	David	No	No	No	(20A) 2020-21 Group Garnet	No	Male	12	K18	White	false	04/09/2004		No	Tara  Wasilewski	
+101330020	Kaur	Gurmann		No	No	No	(20A) 2020-21 Group Garnet	No	Female	10	K17	Asian	false	12/01/2006		Yes	Andrea  Rodenhaus	
+900463924	Kearns	Lucas	O'Riley	No	No	No	(20B) 2020-21 Group Gray	No	Male	9	K30	White	false	09/06/2007		No	Julie  vanBourgondien	
+110810000	Keelty	Liam	Steven	No	No	No	(20A) 2020-21 Group Garnet	No	Male	9	N12	White	false	01/10/2007		Yes	Julie  vanBourgondien	
+900416878	Kelly	Megan	Elizabeth	No	No	No	(20A) 2020-21 Group Garnet	No	Female	12	N28	White	false	04/04/2004		Yes	Tara  Wasilewski	
+091060004	Kempf	Jack	Richard	No	No	No	(20A) 2020-21 Group Garnet	No	Male	9	ALC	White	false	06/01/2007		Yes	Julie  vanBourgondien	
+090160000	Kempf	Travis	David	No	No	No	(20A) 2020-21 Group Garnet	No	Male	12	LMC	White	false	05/01/2004		Yes	Tara  Wasilewski	
+900455289	Kenyon	Ella	Ray	No	No	No	(20A) 2020-21 Group Garnet	No	Female	11	N16	White	false	01/11/2005		Yes	Clement  Smith	
+900455287	Kenyon	Kate	Elizabeth	No	No	No	(20A) 2020-21 Group Garnet	No	Female	11	N16	White	false	01/11/2005		Yes	Clement  Smith	
+900461374	Kerr	Jacey	Rae	No	No	No	(20B) 2020-21 Group Gray	No	Female	10	L6	White	false	11/19/2006		No	Andrea  Rodenhaus	
+900408045	Kiesman	Owen	Matthew	No	No	No	(20A) 2020-21 Group Garnet	No	Male	12	N3	White	false	01/09/2004		Yes	Tara  Wasilewski	
+111440006	Kiff	Courtney	Autumn	No	No	No	(20A) 2020-21 Group Garnet	No	Female	9	N12	White	false	03/12/2007		Yes	Julie  vanBourgondien	
+111380002	King	Nora	Mave	No	No	No	(20A) 2020-21 Group Garnet	No	Female	9	K5	White	false	03/27/2007		No	Julie  vanBourgondien	
+900460981	Kinyon	Tyler	Ryan	No	No	No	(20A) 2020-21 Group Garnet	No	Male	9	K30	White	false	06/11/2007		Yes	Julie  vanBourgondien	
+900451715	Kirk	Alec	James	No	No	No	(20A) 2020-21 Group Garnet	No	Male	11	N17	White	false	02/25/2005		Yes	Clement  Smith	
+900451716	Klaes	Nicholas	Dean	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	10	K7	White	false	06/10/2005		No	Andrea  Rodenhaus	
+092610000	Klock	Dylan	Michael	No	No	No	(20A) 2020-21 Group Garnet	No	Male	9	K30	White	false	02/26/2007		Yes	Julie  vanBourgondien	
+900439022	Kneeppel	Derek	Wayne	No	No	No	(20A) 2020-21 Group Garnet	No	Male	10	L15	White	false	01/03/2006		Yes	Andrea  Rodenhaus	
+900439023	Kneeppel	Maxwell	Anthony	No	No	No	(20A) 2020-21 Group Garnet	No	Male	10	K4	White	false	01/03/2006		Yes	Andrea  Rodenhaus	
+900439024	Koch	Gianna	Mae	No	No	No	(20C) 2020-21 Group SOLA	No	Female	11	N9	White	false	03/22/2005		Yes	Clement  Smith	
+900463481	Kohler	Emily	Marie	No	No	No	(20A) 2020-21 Group Garnet	No	Female	9	N19	White	false	09/06/2007		Yes	Julie  vanBourgondien	
+101330007	Krawczyk	Jack	Richard	No	No	No	(20A) 2020-21 Group Garnet	No	Male	10	K4	White	false	09/28/2006		No	Andrea  Rodenhaus	
+102460000	Krentz	Gina	Marie	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Female	12	BOCES	White	false	10/28/2004		No	Tara  Wasilewski	
+900451718	Krentz	Lillian	Louise	No	No	No	(20A) 2020-21 Group Garnet	No	Female	10	L15	White	false	06/28/2006		No	Andrea  Rodenhaus	
+900462323	Kuder	Morgan	Corine	No	No	No	(20C) 2020-21 Group SOLA	No	Female	9	K22	White	false	12/12/2006		Yes	Julie  vanBourgondien	
+900462322	Kuder	Owen	Joseph	No	No	No	(20C) 2020-21 Group SOLA	No	Male	11	K6	White	false	07/26/2004		No	Clement  Smith	
+900461176	Kuehfus	Brian	Christopher	No	No	Yes	(20A) 2020-21 Group Garnet	No	Male	10	N29	White	false	03/07/2006		No	Andrea  Rodenhaus	
+900453663	Kuhns	Leila	Grace	No	No	No	(20A) 2020-21 Group Garnet	No	Female	10	N5	White	false	07/09/2006		Yes	Andrea  Rodenhaus	
+900461371	Kujawa	Luke	Thomas	No	No	No	(20A) 2020-21 Group Garnet	No	Male	10	K11	White	false	06/13/2006		Yes	Andrea  Rodenhaus	
+900462725	Kunkel	Austin	Scott	No	No	No	(20A) 2020-21 Group Garnet	No	Male	11	N9	White	false	07/16/2005		No	Clement  Smith	
+900456686	Kunkel	Evan	Reed	No	No	Yes	(20C) 2020-21 Group SOLA	No	Male	9	K23	White	false	10/15/2007		Yes	Julie  vanBourgondien	
+900462726	Kunkel	Rian	James	No	No	No	(20A) 2020-21 Group Garnet	No	Male	9	K27	White	false	07/31/2007		No	Julie  vanBourgondien	
+111020008	Kuzara	Larkin	Michaelee	No	No	No	(20A) 2020-21 Group Garnet	No	Female	10	L6	White	false	04/17/2006		No	Andrea  Rodenhaus	
+900461340	Kuznicki	Robert	Michael	No	No	No	(20C) 2020-21 Group SOLA	No	Male	10	N28	White	false	09/07/2006		Yes	Andrea  Rodenhaus	
+900463191	Kwiecien	Aiden	Thomas	No	Yes	No	(20C) 2020-21 Group SOLA	No	Male	10	LMC	White	false	10/06/2006		No		
+900461297	LaBarbera	Alexander	James	No	No	No	(20A) 2020-21 Group Garnet	No	Male	9	K4	White	false	12/19/2006		Yes	Julie  vanBourgondien	
+900461518	LaFever	Cecilia	Jo	No	No	No	(20A) 2020-21 Group Garnet	No	Female	10	N6	White	false	06/11/2006		No	Andrea  Rodenhaus	
+900463716	Lafountain	Zachary	Steven	No	No	Yes	(20A) 2020-21 Group Garnet	No	Male	9	K27	White	false	07/10/2007		Yes	Julie  vanBourgondien	
+900463603	Lalewicz	Emily	Grace	No	No	No	(20A) 2020-21 Group Garnet	No	Female	9	N12	White	false	07/27/2007		Yes	Julie  vanBourgondien	
+900462229	LaMarca	Jacob	Michael	No	No	No	(20A) 2020-21 Group Garnet	No	Male	12	LMC	White	false	09/22/2004		Yes	Tara  Wasilewski	
+900462228	LaMarca	Mitchell	Julian	No	No	No	(20A) 2020-21 Group Garnet	No	Male	9	N12	White	false	06/10/2007		Yes	Julie  vanBourgondien	
+091940006	Lamm	Alexis	Tara	No	No	No	(20A) 2020-21 Group Garnet	No	Female	11	N13	White	false	03/18/2005		Yes	Clement  Smith	
+110070001	LaPlante	Gage	Henry	No	No	No	(20A) 2020-21 Group Garnet	No	Male	10	K31	White	false	04/14/2006		Yes	Andrea  Rodenhaus	
+900450122	Lasher	Anneliese	Kathryn	No	No	No	(20A) 2020-21 Group Garnet	No	Female	11	N17	White	false	02/15/2005		No	Clement  Smith	
+100680003	Laubacker	Hannah	Nicole	No	No	No	(20A) 2020-21 Group Garnet	No	Female	11	L17	White	false	03/02/2005		No	Clement  Smith	
+101110010	Laubacker	Matthew	Craig	No	Yes	No	(20B) 2020-21 Group Gray	No	Male	9	K30	White	false	12/27/2006		No	Julie  vanBourgondien	
+102110000	Lauer	Matthew	Jordan	No	No	No	(20C) 2020-21 Group SOLA	No	Male	11	N16	White	false	06/03/2005		Yes	Clement  Smith	
+900457702	Lauffer	Aneila	Grayce	No	No	No	(20C) 2020-21 Group SOLA	No	Female	12	K27	White	false	02/01/2004		Yes	Tara  Wasilewski	
+900457234	Lauffer	Camden	Jacob	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	12	BOCES	White	false	02/01/2004		Yes	Tara  Wasilewski	
+900459447	Lauffer	Conner	Rian	No	Yes	No	(20C) 2020-21 Group SOLA	No	Male	9	L6	White	false	11/14/2006		No	Julie  vanBourgondien	
+900453443	Lauffer	Kenneth	Scoville	No	Yes	No	(20C) 2020-21 Group SOLA	No	Male	11	N21	White	false	11/04/2004		No	Clement  Smith	
+900456690	Laughton	Daniel	Isaiah	No	No	No	(20A) 2020-21 Group Garnet	No	Male	11	N18	White	false	10/28/2005		No	Clement  Smith	
+101330026	Lavelle	Madeline	Ann	No	No	No	(20A) 2020-21 Group Garnet	No	Female	10	K17	White	false	05/20/2006		Yes	Andrea  Rodenhaus	
+900455589	Lawrence	Colby	Ryan	No	No	No	(20A) 2020-21 Group Garnet	No	Male	12	LMC	White	false	06/10/2004		Yes	Tara  Wasilewski	
+091060006	Lawrence	Natalee	Elizabeth	No	No	No	(20A) 2020-21 Group Garnet	No	Female	9	L13	White	false	06/26/2007		Yes	Julie  vanBourgondien	
+900460894	Leberman	Sarah	Grace	No	No	No	(20A) 2020-21 Group Garnet	No	Female	9	K4	White	false	09/17/2007		No	Julie  vanBourgondien	
+900451721	Lee	AnaSophia	Nona Jane	No	No	No	(20A) 2020-21 Group Garnet	No	Female	11	N13	White	true	08/20/2005		Yes	Clement  Smith	
+091060007	Lee	Kyler	Shao-Yu	No	No	No	(20A) 2020-21 Group Garnet	No	Male	9	K4	Asian	false	01/16/2007		Yes	Julie  vanBourgondien	
+900456108	Lee	Nathan	Shao-Wei	No	No	No	(20A) 2020-21 Group Garnet	No	Male	12	K18	Asian	false	12/15/2003		Yes	Tara  Wasilewski	
+900464019	Lehan	Sarah	Georgina	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Female	9	L6	White	false	05/14/2006		No	Julie  vanBourgondien	
+092670002	Lemieux	Logan	Taylor	No	No	Yes	(20A) 2020-21 Group Garnet	No	Male	9	K4	White	false	04/14/2007		No	Julie  vanBourgondien	
+092880000	Leuer	James	Robert	No	No	Yes	(20A) 2020-21 Group Garnet	No	Male	11	K6	White	false	08/17/2005		Yes	Clement  Smith	
+900461254	Lewczyk	Gabriela	Jean	No	No	No	(20A) 2020-21 Group Garnet	No	Female	12	N10	White	false	02/29/2004		No	Tara  Wasilewski	
+900451784	Lewis	Kyle	Elijah	No	No	Yes	(20A) 2020-21 Group Garnet	No	Male	11	N18	Black/African American	false	08/31/2005		No	Clement  Smith	
+900456691	Lewis	Nicole	Monet	No	No	No	(20A) 2020-21 Group Garnet	No	Female	9	ALC	Black/African American	false	08/21/2007		Yes	Julie  vanBourgondien	
+900451722	Licata	Adrienne	Sabine	No	No	No	(20B) 2020-21 Group Gray	No	Female	12	K18	White	false	04/27/2004		No	Tara  Wasilewski	
+090330000	Lichtenberger	Alexis	Marie	No	No	No	(20B) 2020-21 Group Gray	No	Female	12	K18	White	false	12/01/2004		Yes	Tara  Wasilewski	
+110470005	Lindaman	Samuel	Jeffrey	No	No	No	(20B) 2020-21 Group Gray	No	Male	10	L15	White	false	04/05/2006		Yes	Andrea  Rodenhaus	
+101390002	Linderman	Jaylyn	Faith	No	No	No	(20B) 2020-21 Group Gray	No	Female	9	L13	White	false	07/20/2007		Yes	Julie  vanBourgondien	
+101390001	Linderman	Joshua	Warren	No	No	Yes	(20B) 2020-21 Group Gray	No	Male	11	N9	White	false	11/30/2004		Yes	Clement  Smith	
+110870001	Linton	Kendal	Marie	No	No	No	(20B) 2020-21 Group Gray	No	Female	10	L15	White	false	01/10/2006		Yes	Andrea  Rodenhaus	
+092650001	Lock	Teague	Louis	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	11	K6	White	false	04/25/2005		Yes	Clement  Smith	
+092650000	Lock	Trevor	John	No	No	No	(20B) 2020-21 Group Gray	No	Male	11	N13	White	false	04/25/2005		Yes	Clement  Smith	
+900460772	Lockwood	Ryan	Jacob	No	No	No	(20C) 2020-21 Group SOLA	No	Male	11	K16	White	false	06/15/2005		Yes	Clement  Smith	
+900451724	Lombardo	Emily	Juliet	No	No	No	(20B) 2020-21 Group Gray	No	Female	9	L13	White	false	03/07/2007		Yes	Julie  vanBourgondien	
+900451723	Lombardo	Lucas	Jeffrey	No	No	Yes	(20B) 2020-21 Group Gray	No	Male	9	N12	White	false	03/07/2007		Yes	Julie  vanBourgondien	
+900463277	LoTempio	Ava	Nichole	No	No	No	(20C) 2020-21 Group SOLA	No	Female	10	N21	White	false	09/22/2006		Yes	Andrea  Rodenhaus	
+900462943	Lubs	Monica	Bonnie	No	No	No	(20B) 2020-21 Group Gray	No	Female	11	N17	Multiracial	false	12/22/2004		Yes	Clement  Smith	
+900462944	Lubs	William	Maxwell	No	No	No	(20B) 2020-21 Group Gray	No	Male	10	K11	Multiracial	false	10/20/2006		Yes	Andrea  Rodenhaus	
+900462806	Lucas	Dylan	Scott	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	10	K7	White	false	09/16/2006		Yes	Andrea  Rodenhaus	
+090400001	Lukasik	Julia	Marie	No	No	No	(20B) 2020-21 Group Gray	No	Female	9	K5	White	false	03/14/2007		Yes	Julie  vanBourgondien	
+090400002	Lukasik	Timothy	James	No	No	No	(20B) 2020-21 Group Gray	No	Male	9	K5	White	false	03/14/2007		Yes	Julie  vanBourgondien	
+091320004	Lyness	Peyton	Joseph	No	No	No	(20B) 2020-21 Group Gray	No	Male	12	K18	White	false	10/12/2004		No	Tara  Wasilewski	
+900439041	MacDonald	Lauren	Grace	No	No	Yes	(20B) 2020-21 Group Gray	No	Female	12	BOCES	White	false	10/21/2003		No	Tara  Wasilewski	
+900462900	Mack	Xavier	Robert	No	No	No	(20B) 2020-21 Group Gray	No	Male	9	K30	White	false	04/23/2007		Yes	Julie  vanBourgondien	
+900460747	Madden	Colby	Shane	No	No	No	(20B) 2020-21 Group Gray	No	Male	11	N6	White	false	10/11/2005		No	Clement  Smith	
+900460748	Madden	Tristen	Scott	No	No	No	(20B) 2020-21 Group Gray	No	Male	9	K7	White	false	03/18/2007		Yes	Julie  vanBourgondien	
+100770001	Maddox	Callie	Rose	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Female	11	K6	White	false	08/26/2005		No	Clement  Smith	
+091940007	Maggio	Shawn	Kayden	No	No	Yes	(20B) 2020-21 Group Gray	No	Male	11	N9	White	false	07/09/2005		Yes	Clement  Smith	
+900462804	Mainstone	William	Aaron	No	No	No	(20B) 2020-21 Group Gray	No	Male	11	N20	White	false	09/22/2005		Yes	Clement  Smith	
+900460771	Maj	Loralei	Rose Mary	No	No	No		No	Female	12	N28	White	false	05/21/2004		Yes	Tara  Wasilewski	
+103280001	Malczewski	Jaden	Josseph	No	No	No	(20C) 2020-21 Group SOLA	No	Male	9	K30	White	false	02/04/2006		Yes	Julie  vanBourgondien	
+900462427	Malczewsky	Nicole	Christina	No	No	No	(20B) 2020-21 Group Gray	No	Female	12	LMC	White	false	04/13/2004		No	Tara  Wasilewski	
+090570002	Malecki	Christopher	Allen	No	No	No	(20B) 2020-21 Group Gray	No	Male	12	N10	White	false	09/22/2004		Yes	Tara  Wasilewski	
+091060010	Malecki	Robert	Jonathan	No	No	No	(20B) 2020-21 Group Gray	No	Male	10	L15	White	false	10/30/2006		Yes	Andrea  Rodenhaus	
+900460876	Maliszewski	Luke	Richard	No	No	No	(20B) 2020-21 Group Gray	No	Male	9	L13	White	false	12/22/2006		Yes	Julie  vanBourgondien	
+900460877	Maliszewski	Matthew	Frederick	No	No	No	(20B) 2020-21 Group Gray	No	Male	9	L13	White	false	12/22/2006		Yes	Julie  vanBourgondien	
+102030012	Mallone	Madison	Lorisa	No	No	No	(20B) 2020-21 Group Gray	No	Female	10	N28	White	false	02/21/2006		No	Andrea  Rodenhaus	
+101040000	Manguso	James	Anthony	No	No	No	(20B) 2020-21 Group Gray	No	Male	11	K31	White	false	03/21/2005		Yes	Clement  Smith	
+101310003	Manguso	Joseph	Alexander	No	No	No	(20B) 2020-21 Group Gray	No	Male	10	N28	White	false	07/07/2006		No	Andrea  Rodenhaus	
+900439088	Manning	Benjamin	Kevin	No	No	No	(20B) 2020-21 Group Gray	No	Male	12	LMC	White	false	10/30/2003		Yes	Tara  Wasilewski	
+100330000	Manning	Haylie	Alexis	No	No	No		No	Female	11	N21	White	false	01/12/2005		No	Clement  Smith	
+111380003	Manns	Alexandra	Jordan	No	No	No	(20B) 2020-21 Group Gray	No	Female	9	K5	White	false	12/31/2006		Yes	Julie  vanBourgondien	
+900451725	Mansfield	Marina	Rae	No	No	No	(20B) 2020-21 Group Gray	No	Female	10	N19	White	false	01/04/2006		Yes	Andrea  Rodenhaus	
+090420004	Marcantonio	Samuel	David	No	No	No	(20B) 2020-21 Group Gray	No	Male	12	N3	White	false	08/17/2004		No	Tara  Wasilewski	
+090570007	Marchetti	Gabrielle	Marie	No	No	No	(20B) 2020-21 Group Gray	No	Female	12	K16	White	false	09/16/2004		Yes	Tara  Wasilewski	
+091060011	Marchetti	Jack	Louis	No	No	No	(20B) 2020-21 Group Gray	No	Male	9	K22	White	false	04/21/2007		Yes	Julie  vanBourgondien	
+900460150	Marcus	Carson	John	No	No	No	(20C) 2020-21 Group SOLA	No	Male	12	K16	White	false	03/16/2004		Yes	Tara  Wasilewski	
+900462333	Marmo	Kaylie	Rose	No	No	No		No	Female	9	K23	White	false	10/18/2007		Yes	Julie  vanBourgondien	
+091060012	Marriner	Holly	Jayne	No	No	No	(20B) 2020-21 Group Gray	No	Female	11	N5	White	false	07/27/2005		No	Clement  Smith	
+090610000	Marriner	Norah	Rian Nicolette	No	No	No	(20B) 2020-21 Group Gray	No	Female	12	K18	White	false	01/17/2004		No	Tara  Wasilewski	
+091060013	Marriner	Reid	Nigel	No	No	No	(20B) 2020-21 Group Gray	No	Male	10	K31	White	false	11/08/2006		No	Andrea  Rodenhaus	
+900461069	Martin	Sydney	Kathleen	No	No	No	(20B) 2020-21 Group Gray	No	Female	9	K5	White	false	07/06/2007		Yes	Julie  vanBourgondien	
+900452287	Martino	Adrianna	Lynn	No	No	No	(20C) 2020-21 Group SOLA	No	Female	12	LMC	White	false	07/23/2004		Yes	Tara  Wasilewski	
+900452475	Martorana	Alexandra	Lorraine	No	No	No	(20B) 2020-21 Group Gray	No	Female	11	N16	White	false	01/11/2005		Yes	Clement  Smith	
+101320002	Massa	Marissa	Marie	No	Yes	No	(20C) 2020-21 Group SOLA	No	Female	10	K7	White	false	03/02/2006		No	Andrea  Rodenhaus	
+900440758	Masters	Olivia		No	No	No	(20B) 2020-21 Group Gray	No	Female	11	N20	White	false	08/29/2005		Yes	Clement  Smith	
+900450600	Mastrocovo	Courtney	Alexis	No	No	No	(20B) 2020-21 Group Gray	No	Female	12	N10	White	false	04/17/2004		Yes	Tara  Wasilewski	
+900455588	Mastrocovo	Kyle	Nicholas	No	Yes	No	(20B) 2020-21 Group Gray	No	Male	11	K6	White	false	06/13/2005		No	Clement  Smith	
+091870001	Matthews	Ashley	AnnXin	No	No	No		No	Female	12	K6	White	false	09/17/2003		Yes	Tara  Wasilewski	
+900439090	Matyas	Jesse	Turner	No	Yes	No	(20C) 2020-21 Group SOLA	No	Male	12	K16	White	false	06/26/2004		No	Tara  Wasilewski	
+091110001	May	Lavender	Sage	No	No	Yes	(20B) 2020-21 Group Gray	No	Female	12	BOCES	White	false	08/11/2004		No	Tara  Wasilewski	
+091380000	May	Talulah	Skye	No	No	No	(20D) 2020-21 Group D (Everyday Students)	No	Female	10	N6	White	false	05/27/2006		Yes	Andrea  Rodenhaus	
+111190001	Mayer	Hailey	C	No	No	No	(20B) 2020-21 Group Gray	No	Female	10	L6	White	false	07/28/2006		Yes	Andrea  Rodenhaus	
+900460930	McKie	Lily	Grace	No	No	No	(20B) 2020-21 Group Gray	No	Female	9	K23	White	false	06/27/2007		Yes	Julie  vanBourgondien	
+900458729	McLellan	Joshua	Joseph	No	No	No	(20B) 2020-21 Group Gray	No	Male	9	K30	White	false	02/22/2007		Yes	Julie  vanBourgondien	
+900458728	McLellan	Matthew	Robert	No	Yes	No		No	Male	UGS	BOCES	White	false	01/04/2006		Yes	Julie  vanBourgondien	
+900462028	McManus	Molly	Alyssa	No	No	No	(20B) 2020-21 Group Gray	No	Female	12	N10	White	false	03/26/2004		No	Tara  Wasilewski	
+900460969	Meahl	Kaitlyn	Elaine	No	No	No	(20B) 2020-21 Group Gray	No	Female	9	K27	White	false	01/27/2007		Yes	Julie  vanBourgondien	
+900439266	Meal	Thomas	Jason	No	No	No	(20B) 2020-21 Group Gray	No	Male	12	N3	White	false	11/13/2004		Yes	Tara  Wasilewski	
+110600003	Meiler	Zaeryn	Lynn	No	No	No	(20B) 2020-21 Group Gray	No	Female	10	L15	White	false	08/24/2006		Yes	Andrea  Rodenhaus	
+100970004	Menard	Justin	David	No	No	Yes	(20B) 2020-21 Group Gray	No	Male	11	K6	White	false	10/13/2005		No	Clement  Smith	
+100560000	Mendola	Charles	Albert	No	No	No	(20B) 2020-21 Group Gray	No	Male	11	L14	White	false	02/09/2005		Yes	Clement  Smith	
+900463582	Mendola	Mariah	Theresa	No	No	No	(20B) 2020-21 Group Gray	No	Female	9	N12	White	false	08/14/2007		Yes	Julie  vanBourgondien	
+900455441	Merlo	Franklin	James	No	No	No	(20B) 2020-21 Group Gray	No	Male	12	K18	Asian	false	01/08/2004		No	Tara  Wasilewski	
+900461073	Merrifield	Michael	Sebastian	No	No	No	(20B) 2020-21 Group Gray	No	Male	10	N29	White	false	06/17/2006		Yes	Andrea  Rodenhaus	
+900456694	Messer	Berkley	Genevieve	No	No	No	(20B) 2020-21 Group Gray	No	Female	11	LMC	White	false	01/25/2005		Yes	Clement  Smith	
+900455468	Meyers	Connor	Thomas	No	No	No	(20B) 2020-21 Group Gray	No	Male	9	K19	White	false	04/17/2007		Yes	Julie  vanBourgondien	
+101120001	Mielcarek	Camryn	Rose	No	No	No	(20B) 2020-21 Group Gray	No	Female	9	K23	White	false	04/26/2007		Yes	Julie  vanBourgondien	
+100270000	Mielcarek	Emily	Marie	No	No	No	(20B) 2020-21 Group Gray	No	Female	11	L14	White	false	04/29/2005		No	Clement  Smith	
+900462357	Mikulski IV	Michael	Joseph	No	No	No	(20B) 2020-21 Group Gray	No	Male	9	K5	White	false	03/17/2007		Yes	Julie  vanBourgondien	
+900424202	Miller	Shawn	William	No	Yes	No	(20B) 2020-21 Group Gray	No	Male	12	K6	White	false	11/03/2004		No	Tara  Wasilewski	
+900456695	Milleville	Allison	Grace	No	No	No		No	Female	9	K4	White	false	02/08/2007		Yes	Julie  vanBourgondien	
+900435675	Milleville	Emily	Patricia	No	No	No	(20B) 2020-21 Group Gray	No	Female	11	N13	White	false	03/31/2005		Yes	Clement  Smith	
+101120002	Milleville	Megan	Ann	No	No	No	(20B) 2020-21 Group Gray	No	Female	9	K5	White	false	05/03/2007		Yes	Julie  vanBourgondien	
+100420001	Milleville	Tyler	John	No	No	No	(20B) 2020-21 Group Gray	No	Male	11	L14	White	false	09/14/2005		Yes	Clement  Smith	
+900452663	Moeller	Arden	Louise	No	No	No	(20B) 2020-21 Group Gray	No	Female	12	L17	White	false	04/01/2004		No	Tara  Wasilewski	
+900456696	Moeller	Brady	James	No	No	No	(20B) 2020-21 Group Gray	No	Male	9	K5	White	false	07/21/2007		Yes	Julie  vanBourgondien	
+900452664	Moeller	Mason	Gregory	No	No	No	(20B) 2020-21 Group Gray	No	Male	10	N28	White	false	11/06/2006		Yes	Andrea  Rodenhaus	
+900461879	Moley	Mia	Rose	No	No	No	(20B) 2020-21 Group Gray	No	Female	10	L6	White	false	05/23/2006		No	Andrea  Rodenhaus	
+900460951	Mollosky Jr.	William	David	No	No	Yes	(20B) 2020-21 Group Gray	No	Male	9	N12	White	false	02/15/2007		Yes	Julie  vanBourgondien	
+900462015	Mooney	John	Francis	No	No	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	12	BOCES	White	false	09/24/2003		No	Tara  Wasilewski	
+900464298	Moore	Jade	Aangelica-Sharon	No	Yes	No		No	Female	12	K27	White	false	06/26/2004		No	Tara  Wasilewski	
+900460952	Morris	Brodrick	Robert	No	No	No	(20B) 2020-21 Group Gray	No	Male	9	K19	White	false	01/28/2007		Yes	Julie  vanBourgondien	
+900463747	Morrissey	Oakley	Damien	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	9	K22	White	false	01/18/2007		No	Julie  vanBourgondien	
+102350005	Morse	Thomas	David	No	No	No	(20C) 2020-21 Group SOLA	No	Male	11	N9	White	false	07/28/2004		Yes	Clement  Smith	
+900461903	Moulds	Mariah	Elizabeth	No	No	No	(20A) 2020-21 Group Garnet	No	Female	10	N21	Multiracial	false	04/15/2006		No	Andrea  Rodenhaus	
+900463142	Mulligan	Rylee	Elaine	No	No	No	(20B) 2020-21 Group Gray	No	Female	11	N14	White	false	06/13/2005		Yes	Clement  Smith	
+900436148	Murphy	Daniel	Thomas	No	No	No	(20B) 2020-21 Group Gray	No	Male	12	BOCES	White	false	07/24/2004		Yes	Tara  Wasilewski	
+091060015	Murphy	Faith	Driskel	No	No	Yes	(20B) 2020-21 Group Gray	No	Female	10	L17	White	false	08/15/2006		Yes	Andrea  Rodenhaus	
+100740000	Murray	Madeline	Katherine	No	No	No	(20B) 2020-21 Group Gray	No	Female	11	N6	White	false	06/21/2005		Yes	Clement  Smith	
+101120003	Murray	Patrick	Michael	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	9	K22	White	false	08/06/2007		No	Julie  vanBourgondien	
+900461054	Murzynski	Anna	Grace	No	No	No	(20B) 2020-21 Group Gray	No	Female	9	K4	White	false	11/15/2007		Yes	Julie  vanBourgondien	
+110840000	Muscarella	Joseph	Michael	No	No	No	(20B) 2020-21 Group Gray	No	Male	10	K10	White	false	07/27/2006		Yes	Andrea  Rodenhaus	
+900461127	Myers	Abigail	Lynn	No	No	No	(20C) 2020-21 Group SOLA	No	Female	12	L17	White	false	07/07/2004		Yes	Tara  Wasilewski	
+101120005	Myhalenko	Matthew	Michael	No	No	No	(20B) 2020-21 Group Gray	No	Male	10	K31	White	false	07/09/2006		Yes	Andrea  Rodenhaus	
+101120006	Myhalenko	Megan	Taylor	No	No	No	(20B) 2020-21 Group Gray	No	Female	11	N13	White	false	02/21/2005		Yes	Clement  Smith	
+110410000	Nardelli	Giana	Amelia	No	No	No	(20B) 2020-21 Group Gray	No	Female	10	L17	White	false	05/21/2006		Yes	Andrea  Rodenhaus	
+090770000	Neal	Kiana	Elicia-Mae	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Female	12	BOCES	White	false	03/16/2004		No	Tara  Wasilewski	
+090570000	Neal	Mia	Kennedy	No	No	No	(20B) 2020-21 Group Gray	No	Female	12	LMC	Multiracial	false	02/21/2004		No	Tara  Wasilewski	
+100260000	Neffke	Santina	Elizabeth	No	No	Yes	(20D) 2020-21 Group D (Everyday Students)	No	Female	9	K19	White	false	07/26/2007		Yes	Julie  vanBourgondien	
+900439268	Nelson	Vivian	Rose	No	No	No	(20B) 2020-21 Group Gray	No	Female	12	K18	White	false	06/01/2004		No	Tara  Wasilewski	
+900439269	Nepokroeff	Juliana	May	No	No	No	(20B) 2020-21 Group Gray	No	Female	11	N3	White	false	12/14/2004		Yes	Clement  Smith	
+900451730	Nesbit	Emma	Irene	No	No	No	(20B) 2020-21 Group Gray	No	Female	12	K18	White	false	09/10/2004		No	Tara  Wasilewski	
+900461563	Newton	Angelina	Rae	No	No	No	(20C) 2020-21 Group SOLA	No	Female	11	N18	White	true	02/12/2005		Yes	Clement  Smith	
+900462527	Nichols	Andrew	James	No	No	No	(20C) 2020-21 Group SOLA	No	Male	9	K19	White	false	06/23/2007		Yes	Julie  vanBourgondien	
+900461059	Nicholson	Ellen	Jane	No	No	No	(20B) 2020-21 Group Gray	No	Female	10	N28	White	false	06/06/2006		Yes	Andrea  Rodenhaus	
+900461924	Nichyparuk	Davyd	Henadzievich	No	No	No		A	Male	11	N16	White	false	10/22/2004		No	Clement  Smith	
+900461925	Nichyparuk	Stanislau	Henadzievich	No	No	No	(20C) 2020-21 Group SOLA	A	Male	9	K19	White	false	09/18/2007		Yes	Julie  vanBourgondien	
+900461289	Nicosia	Charles	Joseph	No	No	Yes	(20B) 2020-21 Group Gray	No	Male	9	L13	White	false	12/12/2006		Yes	Julie  vanBourgondien	
+900464229	Nielsen	Julia	Rose	No	No	No		No	Female	12	K27	White	false	12/03/2003		No	Tara  Wasilewski	
+900464230	Nielsen	Marisa	Anne	No	No	No		No	Female	11	L17	White	false	10/03/2005		No	Clement  Smith	
+091060016	Nikitas	Madeline	Laura	No	No	No	(20B) 2020-21 Group Gray	No	Female	10	K11	White	false	06/02/2006		Yes	Andrea  Rodenhaus	
+900448361	Nikitas	Zachery	Paul	No	No	No	(20B) 2020-21 Group Gray	No	Male	12	L17	White	false	11/23/2003		Yes	Tara  Wasilewski	
+900455371	Nixon	Riley	Olivia	No	No	No	(20B) 2020-21 Group Gray	No	Female	12	K18	White	false	05/04/2004		No	Tara  Wasilewski	
+900460960	Niziol	Adyson	Elizabeth	No	No	No	(20B) 2020-21 Group Gray	No	Female	9	L6	White	false	04/26/2007		Yes	Julie  vanBourgondien	
+090720000	North	Taryn	Rylee	No	No	No	(20C) 2020-21 Group SOLA	No	Female	12	LMC	White	false	07/03/2004		Yes	Tara  Wasilewski	
+900461419	Nosbisch	Daryl	Justin	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	11	N18	White	false	02/15/2005		Yes	Clement  Smith	
+900461420	Nosbisch	Jasmine	Isabella	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Female	9	L6	White	false	11/09/2006		Yes	Julie  vanBourgondien	
+900439270	Nye	Kelsey	Danielle	No	No	No	(20B) 2020-21 Group Gray	No	Female	12	N28	White	false	10/05/2004		No	Tara  Wasilewski	
+900461574	Oakes	Morgan	Analee	No	No	No	(20C) 2020-21 Group SOLA	No	Female	9	L13	White	false	03/22/2007		No	Julie  vanBourgondien	
+091060017	O'Connell	Brynn	Elise	No	No	No	(20B) 2020-21 Group Gray	No	Female	10	N5	White	false	07/20/2006		Yes	Andrea  Rodenhaus	
+090640002	O'Connell	Jillian	Shea	No	No	No	(20B) 2020-21 Group Gray	No	Female	12	K18	White	false	10/07/2004		No	Tara  Wasilewski	
+900456697	O'Connor	Faith	Anne	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Female	10	N21	White	false	07/05/2006		Yes	Andrea  Rodenhaus	
+900456698	O'Connor	Frank	Daniel	No	No	No	(20C) 2020-21 Group SOLA	No	Male	11	K16	White	false	04/29/2005		Yes	Clement  Smith	
+100270004	O'Connor	Molly	Kate	No	No	No	(20B) 2020-21 Group Gray	No	Female	11	LMC	White	false	05/18/2005		Yes	Clement  Smith	
+900463512	Odeychuk	Ashley	A	No	No	No	(20B) 2020-21 Group Gray	No	Female	10	L6	White	false	11/30/2006		No	Andrea  Rodenhaus	
+900463511	Odeychuk	Emily	Nina	No	No	No	(20B) 2020-21 Group Gray	No	Female	11	N14	White	false	04/28/2005		No	Clement  Smith	
+900431541	O'Grady	Ryan	Patrick	No	No	No	(20B) 2020-21 Group Gray	No	Male	12	BOCES	White	false	05/30/2003		No	Tara  Wasilewski	
+101330021	O'Lay	Nathan	Christopher	No	No	No	(20B) 2020-21 Group Gray	No	Male	10	K11	White	false	06/12/2006		Yes	Andrea  Rodenhaus	
+900461172	Olson	Benjamin	Jacob	No	No	No	(20B) 2020-21 Group Gray	No	Male	9	K19	White	false	02/17/2007		Yes	Julie  vanBourgondien	
+900456699	Olson	Charles	James	No	No	Yes	(20B) 2020-21 Group Gray	No	Male	10	N6	White	false	03/01/2006		No	Andrea  Rodenhaus	
+900461173	Olson	Nathan	James	No	No	No	(20B) 2020-21 Group Gray	No	Male	11	N18	White	false	08/14/2004		No	Clement  Smith	
+091670000	Olufsen	Maci	Lynn	No	No	No	(20C) 2020-21 Group SOLA	No	Female	11	N6	White	false	07/15/2004		Yes	Tara  Wasilewski	
+111020010	O'Neil	Dillon	Anderson	No	No	No	(20B) 2020-21 Group Gray	No	Male	10	N6	White	false	08/12/2006		Yes	Andrea  Rodenhaus	
+111780004	Pachan	Lucas	Albert	No	No	Yes	(20B) 2020-21 Group Gray	No	Male	9	K19	Multiracial	false	09/02/2007		Yes	Julie  vanBourgondien	
+900462045	Pacouloute	Annabelle	Chloe	No	No	No	(20B) 2020-21 Group Gray	No	Female	9	K4	Black/African American	false	03/28/2007		No	Julie  vanBourgondien	
+900462044	Pacouloute	Ray-Anne	Naikeh	No	No	No	(20B) 2020-21 Group Gray	No	Female	11	N14	Black/African American	false	05/01/2005		No	Clement  Smith	
+900462235	Page	AnnaLisa	Lucia	No	No	No	(20B) 2020-21 Group Gray	No	Female	12	K18	White	false	11/14/2004		No	Tara  Wasilewski	
+900460959	Palazzo	Gianna	Therese	No	No	No	(20B) 2020-21 Group Gray	No	Female	9	L13	White	false	06/04/2007		Yes	Julie  vanBourgondien	
+900456705	Papaj	Emily	Hayden	No	No	No	(20C) 2020-21 Group SOLA	No	Female	10	K17	White	false	10/08/2006		Yes	Andrea  Rodenhaus	
+900456704	Papaj	Tyler	Chase	No	No	No	(20B) 2020-21 Group Gray	No	Male	12	LMC	White	false	09/23/2004		Yes	Tara  Wasilewski	
+900441684	Parise	Samuel	A	No	No	No	(20B) 2020-21 Group Gray	No	Male	11	N9	White	false	10/28/2005		Yes	Clement  Smith	
+900456297	Parsons	Aaron	Wayne	No	No	No	(20B) 2020-21 Group Gray	No	Male	9	K5	White	false	11/09/2006		Yes	Julie  vanBourgondien	
+900456138	Parsons	Seth	Philip	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	12	BOCES	White	false	05/06/2004		No	Tara  Wasilewski	
+900463161	Pascual	Emelie	Cecelia	No	No	No	(20B) 2020-21 Group Gray	No	Female	10	L15	Multiracial	false	11/14/2006		No	Andrea  Rodenhaus	
+111470004	Pasnik	Blake	Michael	No	No	No	(20B) 2020-21 Group Gray	No	Male	9	L13	White	false	11/28/2007		Yes	Julie  vanBourgondien	
+091940008	Pasnik	Hannah	Grace	No	Yes	No		No	Female	11	N18	White	false	10/14/2005		No	Clement  Smith	
+900461290	Passalacqua	Matteo	Aurelio	No	No	No	(20B) 2020-21 Group Gray	No	Male	9	ALC	White	false	12/05/2006		Yes	Julie  vanBourgondien	
+091060018	Patcyk	Ashley		No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Female	10	N21	White	false	09/26/2006		No	Andrea  Rodenhaus	
+090710001	Patcyk	Emma	Jean	No	No	No	(20B) 2020-21 Group Gray	No	Female	12	BOCES	White	false	05/10/2004		No	Tara  Wasilewski	
+100350002	Patel	Avi	Chetan	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	11	K16	Asian	false	04/04/2005		No	Clement  Smith	
+900462139	Patel	Krish		No	No	No	(20B) 2020-21 Group Gray	No	Male	11	N6	White	false	06/08/2005		Yes	Clement  Smith	
+900461031	Patel	Shubh	Paresh	No	No	No	(20C) 2020-21 Group SOLA	No	Male	12	N10	Asian	false	12/27/2003		Yes	Tara  Wasilewski	
+090720001	Paulin	Branden	David	No	No	No	(20B) 2020-21 Group Gray	No	Male	12	BOCES	White	false	09/26/2004		Yes	Tara  Wasilewski	
+091060020	Paulin	Ryan	Patrick	No	No	No	(20B) 2020-21 Group Gray	No	Male	9	ALC	White	false	11/01/2007		Yes	Julie  vanBourgondien	
+900462040	Payne	Franklin	James	No	No	No	(20A) 2020-21 Group Garnet	No	Male	10	K17	White	false	10/13/2005		Yes	Andrea  Rodenhaus	
+900456706	Peehler	Meredith	Louise	No	No	No	(20B) 2020-21 Group Gray	No	Female	12	N3	White	false	10/26/2004		No	Tara  Wasilewski	
+900449694	Penna	Nathan	David	No	No	No	(20B) 2020-21 Group Gray	No	Male	11	LMC	White	false	07/08/2005		No	Clement  Smith	
+900458998	Perdue	Joseph	Matthew	No	No	No	(20B) 2020-21 Group Gray	No	Male	11	N16	White	false	04/05/2005		Yes	Clement  Smith	
+900461082	Pescrillo	Antonio	Michael	No	No	No	(20B) 2020-21 Group Gray	No	Male	10	L6	White	false	02/02/2005		No	Andrea  Rodenhaus	
+900461081	Pescrillo	Trever	Alexander	No	Yes	No		No	Male	11	K16	White	false	08/29/2003		No	Tara  Wasilewski	
+900458827	Peters	Michael	Stephen	No	No	No	(20B) 2020-21 Group Gray	No	Male	11	N9	White	false	09/15/2005		Yes	Clement  Smith	
+092050002	Petricca	Justin	Domenic	No	No	No	(20B) 2020-21 Group Gray	No	Male	12	K18	White	false	11/02/2004		Yes	Tara  Wasilewski	
+900448041	Petroziello	Marlea	Capri	No	No	No	(20B) 2020-21 Group Gray	No	Female	10	L15	White	false	03/04/2006		No	Andrea  Rodenhaus	
+102180000	Phelan	Jacob	Thomas	No	No	No	(20C) 2020-21 Group SOLA	No	Male	12	L14	White	false	05/02/2004		Yes	Tara  Wasilewski	
+101330009	Phillips	Brett	Alexander	No	No	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	10	N29	White	false	04/20/2006		Yes	Andrea  Rodenhaus	
+900455872	Pidanick	Caitlyn	Lea	No	No	No	(20B) 2020-21 Group Gray	No	Female	11	N6	White	false	08/27/2004		No	Clement  Smith	
+900463158	Piechowski	Madison	Mae	No	No	No	(20B) 2020-21 Group Gray	No	Female	12	K18	White	false	10/31/2004		No	Tara  Wasilewski	
+900443938	Pilecki	David	Robert	No	No	Yes	(20B) 2020-21 Group Gray	No	Male	12	BOCES	White	false	11/09/2003		Yes	Tara  Wasilewski	
+101120009	Pirinelli	Olivia	Lynn	No	No	No	(20B) 2020-21 Group Gray	No	Female	10	K11	White	false	06/16/2006		No	Andrea  Rodenhaus	
+100540000	Pirinelli	Philip	Robert	No	No	No	(20B) 2020-21 Group Gray	No	Male	11	N6	White	false	08/09/2005		Yes	Clement  Smith	
+090750001	Pirk	Mariah	Patricia	No	Yes	No	(20B) 2020-21 Group Gray	No	Female	12	BOCES	White	false	08/24/2004		No	Tara  Wasilewski	
+900462773	Pitman	Danica	Josephine	No	No	Yes	(20A) 2020-21 Group Garnet	No	Female	9	ALC	White	false	12/29/2006		Yes	Julie  vanBourgondien	
+900456897	Plekan	Marissa	Elizabeth	No	No	No	(20B) 2020-21 Group Gray	No	Female	11	N5	White	false	08/31/2005		Yes	Clement  Smith	
+900461351	Pohl	Sage	Marie	No	No	No		No	Female	9	K5	White	false	07/14/2007		Yes	Julie  vanBourgondien	
+900454971	Pollow	Travis	Jacob	No	No	No	(20B) 2020-21 Group Gray	No	Male	11	N20	White	false	06/22/2005		Yes	Clement  Smith	
+900454920	Pollow	Trevor	Joseph	No	No	No	(20C) 2020-21 Group SOLA	No	Male	12	BOCES	White	false	12/04/2003		Yes	Tara  Wasilewski	
+900462009	Porter	Aedan	William	No	No	No	(20B) 2020-21 Group Gray	No	Male	10	K11	White	false	11/19/2005		Yes	Andrea  Rodenhaus	
+900462244	Poss	Christopher	Lee	No	No	No	(20B) 2020-21 Group Gray	No	Male	9	N12	White	false	03/02/2007		Yes	Julie  vanBourgondien	
+900456707	Potts	Tanner	James	No	No	No	(20C) 2020-21 Group SOLA	No	Male	11	N18	White	false	09/04/2005		Yes	Clement  Smith	
+900462733	Pratt	Adriana	Lynn	No	No	No	(20B) 2020-21 Group Gray	No	Female	9	L13	White	false	11/05/2007		Yes	Julie  vanBourgondien	
+900456708	Preisch	Aidan	Lance	No	No	No	(20B) 2020-21 Group Gray	No	Male	10	K10	White	false	06/06/2006		No	Andrea  Rodenhaus	
+900458727	Preisch	Benjamin	Steven	No	No	No	(20B) 2020-21 Group Gray	No	Male	10	N5	White	false	01/17/2006		No	Andrea  Rodenhaus	
+900460961	Prezioso	Nicholas	Amedeo	No	No	No	(20B) 2020-21 Group Gray	No	Male	9	K19	White	false	08/17/2007		Yes	Julie  vanBourgondien	
+102110004	Prince	Aiden	Timothy	No	No	Yes	(20B) 2020-21 Group Gray	No	Male	11	L14	White	false	02/15/2005		Yes	Clement  Smith	
+900461271	Prosser	Savannah	Marie	No	No	No	(20B) 2020-21 Group Gray	No	Female	10	L17	White	false	11/29/2005		No	Andrea  Rodenhaus	
+111990001	Prozapas	David	Anatoliy	No	No	No	(20B) 2020-21 Group Gray	No	Male	12	LMC	White	false	04/14/2004		Yes	Tara  Wasilewski	
+900453713	Puchlerz	Jessica	Marie	No	No	No	(20B) 2020-21 Group Gray	No	Female	11	N13	White	false	10/06/2005		No	Clement  Smith	
+101820005	Pulver	Preston	James	No	No	No	(20B) 2020-21 Group Gray	No	Male	9	K27	White	false	06/19/2007		Yes	Julie  vanBourgondien	
+101590002	Pulver	Zelda	Anne	No	No	Yes	(20B) 2020-21 Group Gray	No	Female	11	N18	White	false	10/16/2005		Yes	Clement  Smith	
+900456709	Pytlik	Ava	Noelle	No	No	No	(20B) 2020-21 Group Gray	No	Female	11	L14	White	false	02/02/2005		Yes	Clement  Smith	
+900457995	Qualiana	Saige	Lynne	No	No	No	(20B) 2020-21 Group Gray	No	Female	12	N10	White	false	04/13/2004		Yes	Tara  Wasilewski	
+101330003	Rabideau	Savana	Kayden	No	No	No	(20B) 2020-21 Group Gray	No	Female	10	L17	White	false	06/17/2006		Yes	Andrea  Rodenhaus	
+900461710	Rabiei	Soshians		No	No	No	(20B) 2020-21 Group Gray	A	Male	10	N4	White	false	08/14/2005		Yes	Andrea  Rodenhaus	
+900463281	Radosky	Hannah	Marie	No	No	No	(20B) 2020-21 Group Gray	No	Female	9	K19	White	false	09/13/2007		Yes	Julie  vanBourgondien	
+900463282	Radosky	Kaylin	Alexis	No	No	No	(20B) 2020-21 Group Gray	No	Female	10	L17	White	false	12/05/2005		Yes	Andrea  Rodenhaus	
+900456293	Randolph	Leah	Catherine	No	No	No	(20B) 2020-21 Group Gray	No	Female	11	N29	White	false	05/25/2005		Yes	Clement  Smith	
+100400001	Ranger	Melaina	Laurelle	No	No	No	(20B) 2020-21 Group Gray	No	Female	11	N5	White	false	08/24/2005		No	Clement  Smith	
+101120013	Ranger	Tyler	Jeremy	No	No	No	(20B) 2020-21 Group Gray	No	Male	9	K5	White	false	04/14/2007		Yes	Julie  vanBourgondien	
+091410001	Rasco	Ava	Lorraine	No	No	No	(20B) 2020-21 Group Gray	No	Female	10	L17	White	false	04/17/2006		No	Andrea  Rodenhaus	
+090980001	Rasco	Gavin	Paul	No	No	No	(20B) 2020-21 Group Gray	No	Male	12	BOCES	White	false	10/10/2004		Yes	Tara  Wasilewski	
+110050000	Rathman	Christopher	Ryan	No	No	No	(20C) 2020-21 Group SOLA	No	Male	12	BOCES	White	false	08/27/2004		Yes	Tara  Wasilewski	
+900456710	Regester	Audrey	Jayne	No	No	No	(20C) 2020-21 Group SOLA	No	Female	12	N10	White	false	05/18/2004		Yes	Tara  Wasilewski	
+900463670	Reinbold	Cathleen	Emily	No	No	Yes	(20C) 2020-21 Group SOLA	No	Female	12	K6	White	false	09/19/2003		No	Tara  Wasilewski	
+900461005	Remillard	Madison	Elizabeth	No	No	No	(20B) 2020-21 Group Gray	No	Female	9	L13	White	false	05/19/2007		No	Julie  vanBourgondien	
+900461016	Richardson	Jason	Mitchell	No	No	No	(20B) 2020-21 Group Gray	No	Male	12	LMC	White	false	11/13/2003		Yes	Tara  Wasilewski	
+900460999	Richardson	Joseph	Anthony	No	No	No	(20B) 2020-21 Group Gray	No	Male	9	K27	White	false	11/20/2006		Yes	Julie  vanBourgondien	
+900461954	Riggi	Justice	Frank	No	No	No	(20C) 2020-21 Group SOLA	No	Male	12	K6	White	false	02/25/2004		Yes	Tara  Wasilewski	
+111380005	Riggles	Alexi	Hope	No	No	No	(20D) 2020-21 Group D (Everyday Students)	No	Female	9	N12	White	false	10/01/2007		No	Julie  vanBourgondien	
+900462723	Robak	Matthew	Cody	No	Yes	No	(20C) 2020-21 Group SOLA	No	Male	12	BOCES	White	true	06/17/2004		Yes	Tara  Wasilewski	
+900461286	Robertson	Joseph	James	No	No	No	(20B) 2020-21 Group Gray	No	Male	9	L13	White	false	02/01/2007		No	Julie  vanBourgondien	
+900456712	Robideau	Cassidy	Christine	No	No	Yes	(20C) 2020-21 Group SOLA	No	Female	9	K23	White	false	10/04/2007		Yes	Julie  vanBourgondien	
+900463162	Roche	Devin	Bernard	No	No	No	(20A) 2020-21 Group Garnet	No	Male	9	K22	White	false	10/20/2007		Yes	Julie  vanBourgondien	
+900461934	Roche	Sophie	Lee	No	No	No	(20B) 2020-21 Group Gray	No	Female	9	K19	White	false	08/15/2007		Yes	Julie  vanBourgondien	
+092950002	Rogowski	Rachel	Luise	No	No	No	(20B) 2020-21 Group Gray	No	Female	10	K4	White	false	12/14/2005		Yes	Andrea  Rodenhaus	
+900458099	Rollain	Kailyn	Catherine	No	No	No		No	Female	10	N28	White	false	04/04/2006		No	Andrea  Rodenhaus	
+102210001	Rose	Megan	Leann	No	No	No	(20C) 2020-21 Group SOLA	No	Female	12	LMC	White	false	03/13/2004		Yes	Tara  Wasilewski	
+091060023	Roselund	Jeremiah	Joseph	No	No	No	(20B) 2020-21 Group Gray	No	Male	11	N28	White	false	05/21/2005		Yes	Clement  Smith	
+090420000	Roselund	Lydia	Grace	No	No	No	(20B) 2020-21 Group Gray	No	Female	12	LMC	White	false	08/13/2003		No	Tara  Wasilewski	
+900463532	Rosner	Alyssa	Jade	No	No	No	(20B) 2020-21 Group Gray	No	Female	10	K10	White	false	04/13/2006		Yes	Andrea  Rodenhaus	
+110260000	Rowcroft	Raistlin		No	No	No	(20B) 2020-21 Group Gray	No	Male	10	K10	White	false	05/25/2006		No	Andrea  Rodenhaus	
+900439277	Ruchala	Olivia		No	No	No	(20B) 2020-21 Group Gray	No	Female	10	N5	White	false	03/21/2006		Yes	Andrea  Rodenhaus	
+900456713	Rudnick	Alex	Cordell	No	No	No	(20B) 2020-21 Group Gray	No	Male	12	K18	White	false	09/02/2004		No	Tara  Wasilewski	
+900456714	Rudnick	Austin	Matthew	No	No	No	(20B) 2020-21 Group Gray	No	Male	12	K16	White	false	09/02/2004		Yes	Tara  Wasilewski	
+900459283	Runfola	James	Philip	No	No	No	(20B) 2020-21 Group Gray	No	Male	10	N19	White	false	07/13/2006		No	Andrea  Rodenhaus	
+111780003	Russell	Avery	Renee	No	No	No	(20B) 2020-21 Group Gray	No	Female	9	K19	White	false	01/25/2007		Yes	Julie  vanBourgondien	
+091490001	Russell	Gavin	Peter	No	No	No	(20B) 2020-21 Group Gray	No	Male	10	L6	White	false	06/17/2006		Yes	Andrea  Rodenhaus	
+900459000	Ryan	Brenna	Elisabeth	No	Yes	No	(20B) 2020-21 Group Gray	No	Female	11	K6	White	false	05/03/2005		No	Clement  Smith	
+900458999	Ryan	Murdoc	Caitlin	No	Yes	No	(20B) 2020-21 Group Gray	No	Male	11	K6	White	false	05/03/2005		No	Clement  Smith	
+900461854	Salman	Isaac	Andrew	No	No	No	(20B) 2020-21 Group Gray	No	Male	9	K23	White	false	02/17/2007		Yes	Julie  vanBourgondien	
+900461242	Sanchez	Matthew	Xavier	No	No	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	9	K27	White	true	06/01/2007		Yes	Julie  vanBourgondien	
+900455294	Santor	Anne	Kathryn	No	No	Yes	(20B) 2020-21 Group Gray	No	Female	11	N16	White	false	02/15/2005		No	Clement  Smith	
+900460744	Saunders	Brody	Thomas	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	9	K22	White	false	04/14/2007		Yes	Julie  vanBourgondien	
+900460743	Saunders	Evan	Charles	No	No	Yes	(20B) 2020-21 Group Gray	No	Male	11	N16	White	false	06/15/2005		Yes	Clement  Smith	
+900456715	Scalzo	Madelyn	Olivia	No	No	No	(20B) 2020-21 Group Gray	No	Female	11	L14	White	false	06/03/2005		Yes	Clement  Smith	
+900461572	Scarpelli	Gianna	Francesca	No	No	No	(20B) 2020-21 Group Gray	No	Female	11	N18	White	false	02/13/2005		No	Clement  Smith	
+900429680	Schaefer	Braden	Charles	No	No	No	(20C) 2020-21 Group SOLA	No	Male	11	K6	White	false	06/23/2005		Yes	Clement  Smith	
+900456716	Schepis	Kelsey	Lynn	No	No	No	(20B) 2020-21 Group Gray	No	Female	12	LMC	White	false	10/01/2004		Yes	Tara  Wasilewski	
+900461555	Schiferle	Ava	Grace	No	No	Yes	(20B) 2020-21 Group Gray	No	Female	10	N21	White	false	09/17/2006		Yes	Andrea  Rodenhaus	
+900455936	Schifferle	Sean	Michael	No	No	No	(20B) 2020-21 Group Gray	No	Male	12	N3	White	false	07/27/2004		Yes	Tara  Wasilewski	
+900462145	Schmidt	Griffin	Scott	No	No	No	(20B) 2020-21 Group Gray	No	Male	10	N28	White	false	05/29/2006		Yes	Andrea  Rodenhaus	
+900460774	Schmidt	Madelyn	Marie	No	No	No	(20B) 2020-21 Group Gray	No	Female	9	K5	White	false	09/02/2007		Yes	Julie  vanBourgondien	
+091070000	Schmidt	Nolan	Ronald	No	No	No	(20B) 2020-21 Group Gray	No	Male	9	K5	White	false	06/01/2007		Yes	Julie  vanBourgondien	
+090160001	Schmidt	Rowan	Mae	No	No	No	(20B) 2020-21 Group Gray	No	Female	12	BOCES	White	false	09/22/2004		Yes	Tara  Wasilewski	
+900461888	Schotz	Marah	Elyse	No	No	No	(20B) 2020-21 Group Gray	No	Female	12	K16	White	false	07/04/2004		Yes	Tara  Wasilewski	
+900436147	Schreader	Ashleigh	Rose	No	No	No	(20B) 2020-21 Group Gray	No	Female	12	LMC	White	false	12/31/2003		Yes	Tara  Wasilewski	
+900456717	Schreader	Dylan	Jacob	No	No	No	(20B) 2020-21 Group Gray	No	Male	11	N28	White	false	04/22/2005		Yes	Clement  Smith	
+900408082	Schreader	Matthew	John	No	No	No	(20B) 2020-21 Group Gray	No	Male	12	N10	White	false	07/20/2003		Yes	Tara  Wasilewski	
+900453661	Schuler	Allison	Elizabeth	No	No	No	(20B) 2020-21 Group Gray	No	Female	12	K18	White	false	09/12/2004		No	Tara  Wasilewski	
+900453662	Schuler	Hayden	Charles	No	No	No	(20B) 2020-21 Group Gray	No	Male	10	K10	White	false	07/17/2006		No	Andrea  Rodenhaus	
+111860001	Schulte	Ethan	Christopher	No	No	No	(20C) 2020-21 Group SOLA	No	Male	10	K11	White	false	04/14/2006		No	Andrea  Rodenhaus	
+900461030	Schultz	Nicolette	Tessa	No	No	No	(20B) 2020-21 Group Gray	No	Female	9	K23	White	false	02/13/2007		Yes	Julie  vanBourgondien	
+900460897	Schwabe	Emma	Lin	No	No	No	(20B) 2020-21 Group Gray	No	Female	9	K5	White	false	05/01/2007		No	Julie  vanBourgondien	
+900461513	Schwagler	Ashlyn	Elizabeth	No	No	No	(20B) 2020-21 Group Gray	No	Female	11	N14	White	false	12/26/2004		No	Clement  Smith	
+900461514	Schwagler	Tyler	Andrew	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	UGS	BOCES	White	false	06/14/2003		Yes	Julie  vanBourgondien	
+093500000	Schwock	Vivian	Rose	No	No	No	(20B) 2020-21 Group Gray	No	Female	11	N14	White	false	08/09/2005		No	Clement  Smith	
+111380014	Scott	Anthony	Joseph	No	No	No	(20C) 2020-21 Group SOLA	No	Male	9	K5	Multiracial	false	11/07/2007		Yes	Julie  vanBourgondien	
+110450002	Scott	Isabella	Dahlia	No	No	No	(20B) 2020-21 Group Gray	No	Female	10	K10	White	false	04/25/2006		No	Andrea  Rodenhaus	
+101120018	Scovazzo	Dylan	Scott	No	No	No	(20B) 2020-21 Group Gray	No	Male	9	K7	White	false	02/10/2007		Yes	Julie  vanBourgondien	
+100910000	Scovazzo	Tyler	Dennis	No	No	No	(20B) 2020-21 Group Gray	No	Male	11	K6	White	false	02/03/2005		Yes	Clement  Smith	
+091810001	Semple	Brianna	Christine	No	No	No	(20B) 2020-21 Group Gray	No	Female	12	BOCES	White	false	06/12/2004		No	Tara  Wasilewski	
+091130000	Semsel	Nicholas	Matthew	No	No	No	(20B) 2020-21 Group Gray	No	Male	12	BOCES	White	false	05/29/2004		No	Tara  Wasilewski	
+092380010	Sexton	Victoria	Eleanor	No	No	No	(20B) 2020-21 Group Gray	No	Female	9	K23	White	false	06/13/2007		Yes	Julie  vanBourgondien	
+900461852	Short	Paige	M	No	No	No		No	Female	12	K6	White	false	08/21/2003		Yes	Tara  Wasilewski	
+900464039	Shubbuck	Landon	Lucas Nathaniel	No	No	No	(20A) 2020-21 Group Garnet	No	Male	9	K30	White	false	08/16/2007		No	Julie  vanBourgondien	
+900459062	Sidoni	Natalie	Ann	No	No	No	(20B) 2020-21 Group Gray	No	Female	12	N3	White	false	06/29/2004		Yes	Tara  Wasilewski	
+900463548	Silsby	William	Caleb	No	No	No	(20C) 2020-21 Group SOLA	No	Male	11	K16	White	false	04/04/2005		No	Clement  Smith	
+103280002	Singer	Maya	Ashlynn	No	No	No	(20C) 2020-21 Group SOLA	No	Female	9	ALC	White	false	10/02/2007		Yes	Julie  vanBourgondien	
+090330001	Siradas	Lily	Rose	No	No	No	(20B) 2020-21 Group Gray	No	Female	12	K18	White	false	06/23/2004		Yes	Tara  Wasilewski	
+093220000	Siuta	Jadyn	Briana	No	No	No	(20B) 2020-21 Group Gray	No	Female	12	N6	White	false	10/05/2005		No	Clement  Smith	
+900461725	Skura	Amelia	Madison	No	No	No	(20B) 2020-21 Group Gray	No	Female	10	N28	White	false	06/21/2006		No	Andrea  Rodenhaus	
+900451747	Smith	Allison	Mary	No	No	No	(20C) 2020-21 Group SOLA	No	Female	11	N9	White	false	04/11/2005		No	Clement  Smith	
+900461011	Smith	Edward	Robert	No	No	No	(20C) 2020-21 Group SOLA	No	Male	12	K18	White	false	08/10/2004		Yes	Tara  Wasilewski	
+900461008	Smith	Josephine	Christine	No	No	No	(20D) 2020-21 Group D (Everyday Students)	No	Female	9	K22	White	false	07/30/2007		Yes	Julie  vanBourgondien	
+900461274	Smith	Kagan	Daen	No	No	No	(20B) 2020-21 Group Gray	No	Male	9	K19	White	false	10/18/2007		Yes	Julie  vanBourgondien	
+900460939	Smith	Lawson	Patrick	No	No	No	(20B) 2020-21 Group Gray	No	Male	9	ALC	White	false	05/22/2007		Yes	Julie  vanBourgondien	
+100270001	Smith	Natalie	LeeAnn	No	No	No	(20B) 2020-21 Group Gray	No	Female	12	N13	White	false	11/26/2005		No	Clement  Smith	
+900436146	Solar	Anna	Jean	No	No	No	(20B) 2020-21 Group Gray	No	Female	11	N20	White	false	02/18/2005		No	Clement  Smith	
+900459211	Sole	Zachary	James	No	No	No	(20B) 2020-21 Group Gray	No	Male	10	N21	White	false	05/20/2006		Yes	Andrea  Rodenhaus	
+900459068	Sommers	Madison	Elizabeth	No	No	No	(20B) 2020-21 Group Gray	No	Female	12	N10	White	false	10/02/2004		No	Tara  Wasilewski	
+110600002	Sortore	Benjamin	Roger	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	10	L15	White	false	04/06/2006		No	Andrea  Rodenhaus	
+900439284	Spatorico	Peyton	Thomas	No	No	No	(20B) 2020-21 Group Gray	No	Male	11	N16	White	false	08/26/2004		No	Clement  Smith	
+111380006	Staddon	Nathan	Louis Neil	No	No	No	(20B) 2020-21 Group Gray	No	Male	9	K5	White	false	01/30/2007		No	Julie  vanBourgondien	
+090330002	Staskiewicz	Michaela	Liliane	No	No	No	(20B) 2020-21 Group Gray	No	Female	12	K18	White	false	07/30/2004		No	Tara  Wasilewski	
+900456719	Stefanski	Evan	John	No	No	No	(20B) 2020-21 Group Gray	No	Male	11	N6	White	false	11/22/2005		Yes	Clement  Smith	
+092380002	Stefanski	Megan	Lee	No	No	No	(20B) 2020-21 Group Gray	No	Female	10	L6	White	false	10/30/2006		Yes	Andrea  Rodenhaus	
+900457650	Stein	Luke	David	No	No	No	(20B) 2020-21 Group Gray	No	Male	11	N16	White	false	08/07/2005		Yes	Clement  Smith	
+900463973	Stelter	Brayden	Noah	No	No	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	9	K7	White	false	07/01/2007		Yes	Julie  vanBourgondien	
+900451754	Stenman	Benjamin	Robert	No	No	No	(20B) 2020-21 Group Gray	No	Male	11	N18	White	false	05/24/2005		Yes	Clement  Smith	
+900464365	Stewart	Jonah	Ryan	No	Yes	No		No	Male	9	K22	White	false	10/09/2006		No	Julie  vanBourgondien	
+900439286	Stickney	Jake	James	No	No	No	(20B) 2020-21 Group Gray	No	Male	10	L15	White	false	01/20/2006		Yes	Andrea  Rodenhaus	
+900457350	Stoelting	Rachel	Ann	No	No	No	(20B) 2020-21 Group Gray	No	Female	11	L14	White	false	03/03/2005		Yes	Clement  Smith	
+900458820	Stolzenburg	Jakob	Eric	No	No	No	(20B) 2020-21 Group Gray	No	Male	10	K11	White	false	04/24/2006		Yes	Andrea  Rodenhaus	
+090370002	Stolzenburg	Samantha	Nicole	No	No	No	(20B) 2020-21 Group Gray	No	Female	12	K18	White	false	05/28/2004		No	Tara  Wasilewski	
+900461843	Strasburg	Olivia	Ann	No	No	No	(20C) 2020-21 Group SOLA	No	Female	12	N10	White	false	09/15/2004		Yes	Tara  Wasilewski	
+900452774	Strobel	Sarah	Marjorie	No	No	No	(20C) 2020-21 Group SOLA	No	Female	11	L14	White	false	02/09/2005		Yes	Clement  Smith	
+091940009	Stroehlein	Owen	James	No	No	Yes	(20C) 2020-21 Group SOLA	No	Male	11	LMC	White	false	09/23/2005		Yes	Clement  Smith	
+091940011	Strong	Evan	Thomas	No	No	No	(20B) 2020-21 Group Gray	No	Male	11	N9	White	false	02/15/2005		Yes	Clement  Smith	
+091940010	Strong	Joseph	Duane	No	No	No	(20B) 2020-21 Group Gray	No	Male	11	N16	White	false	02/15/2005		No	Clement  Smith	
+900463218	Strusienski	Abigail	Lynn Adeline	No	No	Yes	(20B) 2020-21 Group Gray	No	Female	12	BOCES	American Indian/Alaska Native	true	03/24/2004		No	Tara  Wasilewski	
+093170001	Styrzo	Parker	Steven	No	No	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	9	K23	White	false	11/22/2006		Yes	Julie  vanBourgondien	
+093170000	Styrzo (Steer-zo)	Samuel	Anthony	No	No	Yes	(20D) 2020-21 Group D (Everyday Students)	No	Male	11	N18	White	false	11/05/2004		Yes	Clement  Smith	
+900456028	Suba	Hannah	Marie	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Female	10	K7	White	false	06/17/2005		No	Andrea  Rodenhaus	
+102420001	Sullivan	Mackenzie	Mattison	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Female	12	BOCES	White	false	10/30/2003		No	Tara  Wasilewski	
+900461727	Sullivan	Mason	James	No	No	No	(20B) 2020-21 Group Gray	No	Male	10	N29	White	false	02/01/2006		No	Andrea  Rodenhaus	
+110600001	Summerville	Gregory	Quinn	No	No	Yes	(20B) 2020-21 Group Gray	No	Male	9	K7	White	false	11/06/2007		Yes	Julie  vanBourgondien	
+900458996	Surman	Stanley	Steven	No	No	Yes	(20B) 2020-21 Group Gray	No	Male	10	K11	White	false	03/03/2006		Yes	Andrea  Rodenhaus	
+900459282	Swann	Mikayla	Elaine	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Female	10	K7	White	false	07/01/2006		No	Andrea  Rodenhaus	
+900463952	Swanson	Adreonna	Marissa	No	No	No	(20C) 2020-21 Group SOLA	No	Female	12	N16	White	false	10/26/2004		No	Clement  Smith	
+900460966	Swanson	Christopher	Austin-Cozmo	No	No	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	9	K30	White	false	12/20/2006		Yes	Julie  vanBourgondien	
+900460936	Swanson	Olivia	Rose	No	No	No	(20B) 2020-21 Group Gray	No	Female	9	L13	White	false	10/22/2007		Yes	Julie  vanBourgondien	
+900456285	Swartz	Aidan	Reed	No	No	No	(20B) 2020-21 Group Gray	No	Male	11	LMC	White	false	12/07/2004		Yes	Clement  Smith	
+111380007	Syracuse	Justine	Marlene	No	No	No	(20B) 2020-21 Group Gray	No	Female	9	N12	White	false	01/30/2007		Yes	Julie  vanBourgondien	
+100350001	Szpilewski	Morgan	Riley	No	No	No	(20B) 2020-21 Group Gray	No	Female	11	N17	White	false	10/26/2005		Yes	Clement  Smith	
+900456720	Szymanski	Joshua	John	No	No	No	(20B) 2020-21 Group Gray	No	Male	10	K10	White	false	06/29/2006		Yes	Andrea  Rodenhaus	
+101970000	Talma	Lauren	Helene	No	No	No	(20B) 2020-21 Group Gray	No	Female	11	N13	White	false	10/08/2005		No	Clement  Smith	
+092120000	Taylor	Robert	James	No	No	No	(20B) 2020-21 Group Gray	No	Male	12	BOCES	White	false	12/30/2003		Yes	Tara  Wasilewski	
+900457152	Teeto	Glenn	Anthony	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	11	K6	White	false	07/22/2005		Yes	Clement  Smith	
+900461020	Terranova	Olivia	Angelene	No	No	No	(20B) 2020-21 Group Gray	No	Female	9	K4	White	false	08/31/2007		Yes	Julie  vanBourgondien	
+900463591	Thompson	George	Henry	No	No	No	(20B) 2020-21 Group Gray	No	Male	11	N13	White	false	05/28/2005		Yes	Clement  Smith	
+900464180	Thompson	Madison	Lynn	No	No	No		No	Female	10	K10	White	false	08/01/2006		Yes	Andrea  Rodenhaus	
+092100000	Thompson	Zachary	Roman	No	No	No	(20C) 2020-21 Group SOLA	No	Male	12	K18	White	false	07/01/2004		Yes	Tara  Wasilewski	
+900456292	Thothongkum	Zoe		No	No	No	(20B) 2020-21 Group Gray	No	Female	11	N16	Asian	false	08/11/2005		Yes	Clement  Smith	
+900456784	Thrall	Berlyn	Erin	No	Yes	No	(20C) 2020-21 Group SOLA	No	Female	11	K6	White	false	06/13/2004		No	Clement  Smith	
+900456043	Tice	Alyssa	Rose	No	No	No	(20B) 2020-21 Group Gray	No	Female	12	N10	White	false	10/07/2004		Yes	Tara  Wasilewski	
+900462253	Tilleli	Kyler	Peter	No	No	No	(20B) 2020-21 Group Gray	No	Male	10	N29	White	false	11/12/2006		Yes	Andrea  Rodenhaus	
+900461226	Tillman	Matthew	Eric	No	No	No	(20B) 2020-21 Group Gray	No	Male	11	N6	Black/African American	false	12/08/2004		No	Clement  Smith	
+101330010	Tisack	Madeline	Marie	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Female	10	N21	White	false	10/07/2006		No	Andrea  Rodenhaus	
+900460140	Tokarczyk	Kiera	Marie	No	No	No	(20B) 2020-21 Group Gray	No	Female	10	N19	White	false	05/21/2006		Yes	Andrea  Rodenhaus	
+900462496	Tortorella	Samuel	Lee	No	No	No	(20B) 2020-21 Group Gray	No	Male	10	N29	White	false	12/29/2005		No	Andrea  Rodenhaus	
+111790001	Toth	Noah	Stephen	No	Yes	No		No	Male	10	L6	White	false	01/18/2006		No	Andrea  Rodenhaus	
+092670003	Touralchuk	Natalee	Rose	No	No	No	(20B) 2020-21 Group Gray	No	Female	9	K27	White	false	04/23/2007		Yes	Julie  vanBourgondien	
+900463629	Townsend	Marvin	Zachary	No	No	No	(20C) 2020-21 Group SOLA	No	Male	11	K16	White	false	03/13/2005		Yes	Clement  Smith	
+900463628	Townsend	Maximus	Xavier	No	No	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	9	K30	White	false	05/19/2007		Yes	Julie  vanBourgondien	
+900460958	Trabold	Griffin	Oscar	No	No	No	(20B) 2020-21 Group Gray	No	Male	9	K5	White	false	05/06/2007		Yes	Julie  vanBourgondien	
+900457286	Trenz	Garret	Michael	No	No	Yes	(20B) 2020-21 Group Gray	No	Male	12	BOCES	White	false	09/08/2003		Yes	Tara  Wasilewski	
+111780002	Trimble	Payton	Elizabeth	No	No	No	(20B) 2020-21 Group Gray	No	Female	9	K4	White	false	08/17/2007		Yes	Julie  vanBourgondien	
+900463013	Trimmer	Grace	Carol-Lynn	No	No	No	(20D) 2020-21 Group D (Everyday Students)	No	Female	9	K23	White	false	12/20/2006		Yes	Julie  vanBourgondien	
+900462386	Tupchik	Nina	Sergeyevna	No	No	No	(20B) 2020-21 Group Gray	No	Female	11	N9	White	false	05/13/2005		No	Clement  Smith	
+900462385	Tupchik	Vitaliy	Sergeyevich	No	No	No	(20B) 2020-21 Group Gray	No	Male	10	N19	White	false	10/02/2006		Yes	Andrea  Rodenhaus	
+900460978	Udell	Madison	Anne	No	No	No	(20C) 2020-21 Group SOLA	No	Female	9	K23	White	false	12/22/2006		Yes	Julie  vanBourgondien	
+900462227	Uhl	Morgan	Riley	No	No	No	(20B) 2020-21 Group Gray	No	Female	11	N16	White	false	10/13/2005		Yes	Clement  Smith	
+900456725	Umstead	Noah	Alexander	No	No	No	(20B) 2020-21 Group Gray	No	Male	10	K31	White	false	02/07/2006		No	Andrea  Rodenhaus	
+900461304	Uptegrove	Christopher	James	No	Yes	No	(20C) 2020-21 Group SOLA	No	Male	11	N18	White	false	09/12/2005		No	Clement  Smith	
+900451757	Urbanski	Rachel	Marie	No	No	No	(20B) 2020-21 Group Gray	No	Female	10	K31	White	false	06/06/2006		Yes	Andrea  Rodenhaus	
+900461065	Vaeth	Andrew	Thomas	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	11	K16	White	false	04/21/2005		No	Clement  Smith	
+900463323	Vaidya	Ishan	Viren	No	No	No		No	Male	12	K18	Asian	false	11/12/2003		No	Tara  Wasilewski	
+091070003	Valentine	Caitlin	Rose	No	No	No	(20B) 2020-21 Group Gray	No	Female	9	K19	White	false	01/26/2007		Yes	Julie  vanBourgondien	
+900459388	Valentine	Connor	Glenn	No	No	No	(20B) 2020-21 Group Gray	No	Male	12	BOCES	White	false	07/12/2004		Yes	Tara  Wasilewski	
+103420001	Valint	Jonah	Stephen	No	No	No	(20B) 2020-21 Group Gray	No	Male	12	BOCES	White	false	01/21/2004		No	Tara  Wasilewski	
+093170003	Valnarov	Kristina	Mihaylova	No	No	No	(20B) 2020-21 Group Gray	No	Female	12	L17	White	false	09/30/2004		Yes	Tara  Wasilewski	
+900462239	Van Dusen	Colin	Stewart	No	No	No	(20B) 2020-21 Group Gray	No	Male	10	K11	White	false	08/24/2006		Yes	Andrea  Rodenhaus	
+900462238	Van Dusen	Lance	Richard	No	No	No	(20B) 2020-21 Group Gray	No	Male	12	BOCES	White	false	03/03/2004		No	Tara  Wasilewski	
+900461348	Verstreate	Erin	Katherine	No	No	Yes	(20D) 2020-21 Group D (Everyday Students)	No	Female	10	N19	White	false	10/06/2006		Yes	Andrea  Rodenhaus	
+900461349	Verstreate	Jeremiah	Paul	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	12	BOCES	White	false	06/15/2004		Yes	Tara  Wasilewski	
+900455972	Vicki	Gianna	Marie	No	No	No	(20B) 2020-21 Group Gray	No	Female	9	K27	White	false	05/03/2007		Yes	Julie  vanBourgondien	
+900461116	Vogel	Cohen	Jacob	No	No	No	(20B) 2020-21 Group Gray	No	Male	9	K7	White	false	04/18/2007		Yes	Julie  vanBourgondien	
+900461115	Vogel	Kyleigh	Renee	No	No	No	(20B) 2020-21 Group Gray	No	Female	12	N3	White	false	11/05/2004		Yes	Tara  Wasilewski	
+900451758	Volpe	Eva	Marie	No	No	No	(20B) 2020-21 Group Gray	No	Female	10	N19	White	false	08/16/2006		No	Andrea  Rodenhaus	
+100350000	Voss	Sophia	Love	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Female	11	N18	White	false	11/30/2005		Yes	Clement  Smith	
+900456726	Vu	Justin	H	No	No	No	(20B) 2020-21 Group Gray	No	Male	12	K18	White	false	07/06/2004		No	Tara  Wasilewski	
+091070004	Wagner	Lyndzie	Anne	No	No	No	(20B) 2020-21 Group Gray	No	Female	10	K10	White	false	10/05/2006		No	Andrea  Rodenhaus	
+900459069	Wagner	Zoe	Rook	No	No	No	(20B) 2020-21 Group Gray	No	Female	12	N28	White	false	06/17/2004		Yes	Tara  Wasilewski	
+093170005	Walby	Emily	Margaret	No	No	No	(20B) 2020-21 Group Gray	No	Female	10	L15	White	false	10/24/2006		No	Andrea  Rodenhaus	
+900460927	Walck	Benjamin	Akim	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	9	K22	White	false	03/18/2007		Yes	Julie  vanBourgondien	
+900456916	Walek	Daisy	Lynn	No	No	No	(20B) 2020-21 Group Gray	No	Female	12	N10	White	false	10/14/2004		Yes	Tara  Wasilewski	
+900461951	Walek	Kara	Odette Luann	No	Yes	No		No	Female	9	L6	Multiracial	false	09/27/2007		Yes	Julie  vanBourgondien	
+900456912	Walek	Theodore	Jesse James	No	No	No	(20B) 2020-21 Group Gray	No	Male	10	L6	White	false	09/21/2005		Yes	Andrea  Rodenhaus	
+090710003	Waliszewski	Hayley	Grace	No	No	No	(20B) 2020-21 Group Gray	No	Female	12	K18	White	false	04/14/2004		No	Tara  Wasilewski	
+091070005	Waliszewski	Sophia	Angelina	No	No	No	(20B) 2020-21 Group Gray	No	Female	9	N12	White	false	12/30/2006		Yes	Julie  vanBourgondien	
+900461075	Wanecski	Logan	Denis	No	No	No	(20B) 2020-21 Group Gray	No	Male	10	N28	White	false	10/03/2006		Yes	Andrea  Rodenhaus	
+100420000	Washburn	Alyson	Marie	No	No	No	(20B) 2020-21 Group Gray	No	Female	11	K31	White	false	03/17/2005		No	Clement  Smith	
+101130004	Washburn	Casey	Ann	No	No	No	(20B) 2020-21 Group Gray	No	Female	9	K4	White	false	02/25/2007		Yes	Julie  vanBourgondien	
+900456959	Wasilewski	Lyla	Rose	No	No	No	(20B) 2020-21 Group Gray	No	Female	9	L13	White	false	05/21/2007		No	Julie  vanBourgondien	
+090570003	Waugh	Chloe	Jo Ann	No	No	No	(20B) 2020-21 Group Gray	No	Female	12	L17	White	false	05/03/2004		Yes	Tara  Wasilewski	
+101330011	Weaver	Emily	Anne	No	No	No	(20B) 2020-21 Group Gray	No	Female	10	K17	White	false	04/28/2006		Yes	Andrea  Rodenhaus	
+900462289	Weaver	Lianna	Nichole	No	No	No	(20D) 2020-21 Group D (Everyday Students)	No	Female	9	K23	White	false	04/03/2007		Yes	Julie  vanBourgondien	
+900461262	Webb	Avery	Blake	No	No	No	(20B) 2020-21 Group Gray	No	Male	11	L14	White	false	11/08/2004		No	Clement  Smith	
+900461836	Weierheiser	Kaylee	Marie	No	No	No	(20B) 2020-21 Group Gray	No	Female	10	N5	White	false	05/09/2006		Yes	Andrea  Rodenhaus	
+101340000	Weiss	Zachary	Robert	No	No	Yes	(20C) 2020-21 Group SOLA	No	Male	11	N9	White	false	06/09/2005		No	Clement  Smith	
+900456727	Wellsby	Ryan	Michael	No	No	Yes	(20A) 2020-21 Group Garnet	No	Male	9	L13	White	false	03/05/2007		Yes	Julie  vanBourgondien	
+900456728	Wellsby	Sean	Patrick	No	No	Yes	(20A) 2020-21 Group Garnet	No	Male	9	L13	White	false	03/05/2007		Yes	Julie  vanBourgondien	
+900460953	Wendt	Nathanael	David	No	No	No	(20B) 2020-21 Group Gray	No	Male	9	L13	White	false	03/28/2007		Yes	Julie  vanBourgondien	
+091070007	Werth	Dylan	James	No	No	No	(20B) 2020-21 Group Gray	No	Male	10	N5	White	false	07/11/2006		No	Andrea  Rodenhaus	
+900459061	Werth	Sheridan	Leigh	No	No	Yes	(20B) 2020-21 Group Gray	No	Female	12	LMC	White	false	05/23/2004		Yes	Tara  Wasilewski	
+900461341	Wettlaufer	Sarah	Marie	No	No	No	(20C) 2020-21 Group SOLA	No	Female	12	N28	White	false	10/27/2004		Yes	Tara  Wasilewski	
+900463216	White	Eliana	Katherine	No	No	No	(20B) 2020-21 Group Gray	No	Female	9	K30	American Indian/Alaska Native	false	11/01/2007		Yes	Julie  vanBourgondien	
+900462786	White	Nicholas	Randy	No	Yes	No	(20A) 2020-21 Group Garnet	No	Male	9	L6	White	false	04/12/2006		No	Andrea  Rodenhaus	
+900456900	Whitsell	Jack	Douglas	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	12	BOCES	White	false	06/11/2004		No	Tara  Wasilewski	
+900456899	Whitsell	Lilly	Grace	No	No	No	(20B) 2020-21 Group Gray	No	Female	12	BOCES	White	false	06/11/2004		Yes	Tara  Wasilewski	
+900462620	Wichhart	Benjamin	Andrew	No	No	No	(20B) 2020-21 Group Gray	No	Male	11	N20	White	false	10/20/2005		No	Clement  Smith	
+900460946	Wilcox	Kyle	Christian	No	No	No	(20B) 2020-21 Group Gray	No	Male	9	K19	White	true	08/07/2007		No	Julie  vanBourgondien	
+092090001	Wilger	Madeline	Diane	No	No	No	(20B) 2020-21 Group Gray	No	Female	9	K7	White	false	11/03/2006		Yes	Julie  vanBourgondien	
+900451602	Wilger	Mark	Alexander	No	No	Yes	(20B) 2020-21 Group Gray	No	Male	12	N10	White	false	10/03/2003		No	Tara  Wasilewski	
+900462164	Williams	Kaiden	James	No	No	No	(20B) 2020-21 Group Gray	No	Male	9	K5	White	false	01/02/2007		Yes	Julie  vanBourgondien	
+900462161	Williams	Kayley	Marie	No	No	No	(20B) 2020-21 Group Gray	No	Female	9	K19	White	false	01/02/2007		Yes	Julie  vanBourgondien	
+900456729	Williamson	Maxwell	David	No	No	No	(20B) 2020-21 Group Gray	No	Male	9	K23	White	false	08/21/2007		Yes	Julie  vanBourgondien	
+900461830	Wiseman	Zachary	John	No	No	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	10	L15	White	false	07/17/2006		No	Andrea  Rodenhaus	
+101330022	Wisniewski	Tucker	Colvi	No	No	No		No	Male	10	N19	White	false	05/14/2006		Yes	Andrea  Rodenhaus	
+101130005	Wohlleber	Ava	Victoria	No	No	No	(20C) 2020-21 Group SOLA	No	Female	11	N14	White	false	07/12/2005		Yes	Clement  Smith	
+900449690	Wojewoda	Dylan	Thomas	No	Yes	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	12	BOCES	White	false	01/27/2004		Yes	Tara  Wasilewski	
+900456731	Woleben	Amanda	Marie	No	No	No	(20C) 2020-21 Group SOLA	No	Female	10	K11	White	false	03/27/2006		Yes	Andrea  Rodenhaus	
+103430005	Wolf	Eric	Daniel	No	No	No	(20B) 2020-21 Group Gray	No	Male	9	ALC	White	false	01/12/2007		Yes	Julie  vanBourgondien	
+900456454	Wong	Cody	James	No	No	No	(20B) 2020-21 Group Gray	No	Male	11	N14	Asian	false	09/20/2005		No	Clement  Smith	
+900459307	Worral	Jack	Devere	No	No	No	(20C) 2020-21 Group SOLA	No	Male	10	N5	White	false	09/15/2006		Yes	Andrea  Rodenhaus	
+100620002	Worral	Tyler	Joseph	No	No	No	(20C) 2020-21 Group SOLA	No	Male	11	N13	White	false	12/23/2004		Yes	Clement  Smith	
+900456732	Wrate	Collin	Daniel	No	No	No	(20B) 2020-21 Group Gray	No	Male	11	K31	White	false	10/17/2005		No	Clement  Smith	
+900424269	Wunderlich	Aaron	Michael	No	No	No	(20D) 2020-21 Group D (Everyday Students)	No	Male	12	LMC	White	false	04/06/2004		Yes	Tara  Wasilewski	
+100400002	Wurstner	Benjamin	Michael	No	No	No	(20B) 2020-21 Group Gray	No	Male	11	K6	White	false	03/29/2005		No	Clement  Smith	
+101130007	Wurstner	Jacob	Christopher	No	No	No	(20B) 2020-21 Group Gray	No	Male	9	K19	White	false	12/14/2006		Yes	Julie  vanBourgondien	
+900457025	Yocum	Savannah	Joy	No	No	No	(20B) 2020-21 Group Gray	No	Female	9	K5	White	false	03/21/2007		Yes	Julie  vanBourgondien	
+900459070	Young	Wyatt	Alexander	No	No	No	(20C) 2020-21 Group SOLA	No	Male	12	K16	White	false	09/01/2004		Yes	Tara  Wasilewski	
+900461561	Youngman	Mason	William	No	No	No	(20B) 2020-21 Group Gray	No	Male	9	K5	White	false	04/17/2007		No	Julie  vanBourgondien	
+111020015	Zambito	Anthony	John	No	No	No	(20C) 2020-21 Group SOLA	No	Male	10	K11	White	false	09/20/2006		No	Andrea  Rodenhaus	
+900460137	Zastrow	Julia	Rae	No	No	Yes	(20B) 2020-21 Group Gray	No	Female	11	N18	White	false	03/30/2005		Yes		
+090160003	Zawada	Jonathan	David	No	No	No	(20B) 2020-21 Group Gray	No	Male	11	N20	White	false	11/22/2004		No	Clement  Smith	
+900461536	Zawisky	Alivia	Clare	No	No	No	(20B) 2020-21 Group Gray	No	Female	12	N3	White	false	06/03/2004		No	Tara  Wasilewski	
+900460879	Zgoda	Sawyer	Joseph	No	No	No	(20B) 2020-21 Group Gray	No	Male	9	L13	White	false	08/30/2007		Yes	Julie  vanBourgondien	
+900461052	Zhilevich	Dmitry	A.	No	No	No	(20B) 2020-21 Group Gray	A	Male	9	K19	White	false	03/02/2007		Yes	Julie  vanBourgondien	
+900458429	Zimmerman	Aiden	Hunter	No	No	No	(20C) 2020-21 Group SOLA	No	Male	11	N6	American Indian/Alaska Native	false	06/08/2005		Yes	Clement  Smith	
+900460954	Zimmerman	Drew	Thomas	No	No	No	(20B) 2020-21 Group Gray	No	Male	9	K23	White	false	10/11/2007		Yes	Julie  vanBourgondien	
+900459207	Zorn	Zachary	Daniel	No	No	No	(20C) 2020-21 Group SOLA	No	Male	11	L14	White	false	02/03/2005		No	Clement  Smith	
+101130011	Zupo	Meagan	Lynn	No	No	No	(20B) 2020-21 Group Gray	No	Female	10	K17	White	false	08/15/2006		Yes	Andrea  Rodenhaus	
+100620001	Zupo	Michael	Joseph	No	No	No	(20B) 2020-21 Group Gray	No	Male	11	K16	White	false	01/13/2005		No	Clement  Smith	
+111790000	Zuppa	Adriona	Marie	No	No	No		No	Female	9	L6	White	false	08/12/2006		Yes	Julie  vanBourgondien	
